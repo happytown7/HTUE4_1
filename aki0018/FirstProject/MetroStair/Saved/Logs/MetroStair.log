@@ -1,0 +1,1733 @@
+﻿Log file open, 04/18/20 12:37:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MetroStair
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.279047
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.074s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=aki0018 -epicuserid=c705ba0724fe476f86f342d151cefd0c -epiclocale=ja
+LogInit: Base Directory: D:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Engine.ini]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Engine.ini]
+[2020.04.18-03.37.53:395][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Engine.ini]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Engine.ini]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.18-03.37.53:395][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.18-03.37.53:396][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.18-03.37.53:396][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.18-03.37.53:396][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.04.18-03.37.53:396][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.18-03.37.53:396][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.18-03.37.53:396][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.04.18-03.37.53:396][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.18-03.37.53:396][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.18-03.37.53:396][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.18-03.37.53:396][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.18-03.37.53:396][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Engine.ini]
+[2020.04.18-03.37.53:396][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Engine.ini]
+[2020.04.18-03.37.53:398][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.18-03.37.53:398][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.18-03.37.53:399][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.18-03.37.53:399][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.18-03.37.53:399][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.18-03.37.53:406][  0]LogHAL: Display: Platform has ~ 16 GB [17128947712 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.04.18-03.37.53:407][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.18-03.37.53:407][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.18-03.37.53:407][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.18-03.37.53:408][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.18-03.37.53:408][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.18-03.37.53:408][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.18-03.37.53:408][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.18-03.37.53:408][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.18-03.37.53:408][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.18-03.37.53:408][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.18-03.37.53:408][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.18-03.37.53:408][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-03.37.53:408][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.18-03.37.53:408][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.18-03.37.53:408][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.18-03.37.53:408][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.18-03.37.53:408][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Config/Windows/Engine.ini]
+[2020.04.18-03.37.53:408][  0]LogInit: Computer: AKI
+[2020.04.18-03.37.53:408][  0]LogInit: User: akito
+[2020.04.18-03.37.53:408][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.18-03.37.53:408][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.18-03.37.53:408][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.04.18-03.37.53:408][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.18-03.37.53:408][  0]LogMemory: Process Physical Memory: 102.99 MB used, 103.00 MB peak
+[2020.04.18-03.37.53:408][  0]LogMemory: Process Virtual Memory: 91.48 MB used, 91.48 MB peak
+[2020.04.18-03.37.53:408][  0]LogMemory: Physical Memory: 8609.99 MB used,  7725.45 MB free, 16335.44 MB total
+[2020.04.18-03.37.53:408][  0]LogMemory: Virtual Memory: 4621.66 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2020.04.18-03.37.53:429][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.04.18-03.37.53:429][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.04.18-03.37.53:814][  0]LogStreaming: Display: Took  0.385s to InitEngineTextLocalization.
+[2020.04.18-03.37.53:815][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.18-03.37.53:875][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.18-03.37.53:875][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.18-03.37.54:235][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.18-03.37.54:235][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.18-03.37.54:289][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.04.18-03.37.54:289][  0]LogD3D11RHI:       6052/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.18-03.37.54:291][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.18-03.37.54:291][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.18-03.37.54:291][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.18-03.37.54:298][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.18-03.37.54:298][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.18-03.37.54:298][  0]LogWindows: EnumDisplayDevices:
+[2020.04.18-03.37.54:298][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.04.18-03.37.54:299][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.04.18-03.37.54:299][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.04.18-03.37.54:299][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.04.18-03.37.54:299][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.18-03.37.54:299][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.04.18-03.37.54:299][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.04.18-03.37.54:299][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.04.18-03.37.54:299][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.04.18-03.37.54:340][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.18-03.37.54:360][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.18-03.37.54:691][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.04.18-03.37.54:704][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.04.18-03.37.54:716][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.04.18-03.37.54:728][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.04.18-03.37.54:739][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.04.18-03.37.54:752][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.04.18-03.37.54:765][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.04.18-03.37.54:777][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.04.18-03.37.54:782][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.18-03.37.54:851][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.04.18-03.37.54:909][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.04.18-03.37.54:909][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.04.18-03.37.54:931][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.04.18-03.37.54:931][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.04.18-03.37.54:942][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.04.18-03.37.54:954][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.04.18-03.37.54:965][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.04.18-03.37.54:977][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.04.18-03.37.55:019][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.04.18-03.37.55:020][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.04.18-03.37.55:020][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.18-03.37.55:068][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Intermediate/Shaders/WorkingDirectory/21084/).
+[2020.04.18-03.37.55:068][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/slipk/AppData/Local/Temp/UnrealShaderWorkingDir/BEDD1C6E4087722C51BCAA8AAFE640FD/'.
+[2020.04.18-03.37.55:069][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.18-03.37.55:069][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.18-03.37.55:069][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.18-03.37.55:605][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.18-03.37.55:653][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/slipk/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.04.18-03.37.55:653][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/slipk/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.04.18-03.37.55:653][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.18-03.37.55:653][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.18-03.37.55:653][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.18-03.37.55:653][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.18-03.37.55:669][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.18-03.37.55:669][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.18-03.37.55:669][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.18-03.37.55:681][  0]LogDerivedDataCache: Using Local data cache path C:/Users/slipk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.18-03.37.55:681][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.18-03.37.55:681][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.18-03.37.55:703][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.18-03.37.55:704][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.18-03.37.55:705][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.18-03.37.55:810][  0]LogAssetRegistry: FAssetRegistry took 0.0324 seconds to start up
+[2020.04.18-03.37.56:112][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.18-03.37.56:252][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.04.18-03.37.56:255][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.04.18-03.37.56:255][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.18-03.37.56:255][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.18-03.37.56:255][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.04.18-03.37.56:267][  0]LogNetVersion: MetroStair 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3738133840)
+[2020.04.18-03.37.56:697][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.036036 seconds
+[2020.04.18-03.37.56:703][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.04.18-03.37.56:703][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2020.04.18-03.37.56:703][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.18-03.37.57:730][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.18-03.37.57:744][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.18-03.37.58:591][  0]SourceControl: Source control is disabled
+[2020.04.18-03.37.58:591][  0]SourceControl: Source control is disabled
+[2020.04.18-03.37.58:592][  0]SourceControl: Source control is disabled
+[2020.04.18-03.37.58:593][  0]SourceControl: Source control is disabled
+[2020.04.18-03.37.58:756][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.18-03.37.59:140][  0]LogOcInput: OculusInput pre-init called
+[2020.04.18-03.37.59:273][  0]LogEngine: Initializing Engine...
+[2020.04.18-03.37.59:274][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.18-03.37.59:275][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.04.18-03.37.59:275][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.04.18-03.37.59:275][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.04.18-03.37.59:275][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.04.18-03.37.59:490][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.18-03.37.59:501][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.18-03.37.59:677][  0]LogInit: XAudio2 using 'Speakers (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.04.18-03.37.59:695][  0]LogInit: FAudioDevice initialized.
+[2020.04.18-03.37.59:695][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.18-03.37.59:857][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/slipk/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.04.18-03.37.59:857][  0]LogInit: Texture streaming: Enabled
+[2020.04.18-03.37.59:965][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.18-03.37.59:976][  0]LogInit: Transaction tracking system initialized
+[2020.04.18-03.37.59:995][  0]BlueprintLog: New page: Editor Load
+[2020.04.18-03.38.00:058][  0]LocalizationService: Localization service is disabled
+[2020.04.18-03.38.00:270][  0]LogLinker: Warning: Can't find file '/Game/VehicleBP/VehicleOverview'
+[2020.04.18-03.38.00:270][  0]LogLinker: Warning: Can't find file '/Game/VehicleBP/VehicleOverview'
+[2020.04.18-03.38.00:270][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VehicleBP/VehicleOverview.VehicleOverview_C'
+[2020.04.18-03.38.00:479][  0]LogFileCache: Scanning file cache for directory 'D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Content/' took 0.02s
+[2020.04.18-03.38.00:479][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.18-03.38.00:479][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.18-03.38.00:479][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.04.18-03.38.00:479][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.04.18-03.38.00:479][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.04.18-03.38.00:479][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.04.18-03.38.00:479][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.04.18-03.38.00:605][  0]SourceControl: Source control is disabled
+[2020.04.18-03.38.00:605][  0]Cmd: MAP LOAD FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.18-03.38.00:605][  0]LightingResults: New page: Lighting Build
+[2020.04.18-03.38.00:608][  0]MapCheck: New page: Map Check
+[2020.04.18-03.38.00:608][  0]LightingResults: New page: Lighting Build
+[2020.04.18-03.38.00:899][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.04.18-03.38.00:906][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.18-03.38.00:926][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.18-03.38.00:926][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2020.04.18-03.38.00:926][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.321
+[2020.04.18-03.38.01:101][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.18-03.38.01:110][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.18-03.38.01:117][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.18-03.38.01:124][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.18-03.38.01:130][  0]LogCollectionManager: Loaded 0 collections in 0.001473 seconds
+[2020.04.18-03.38.01:169][  0]LogFileCache: Scanning file cache for directory 'D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Collections/' took 0.01s
+[2020.04.18-03.38.01:169][  0]LogFileCache: Scanning file cache for directory 'D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Content/Developers/akito/Collections/' took 0.01s
+[2020.04.18-03.38.01:169][  0]LogFileCache: Scanning file cache for directory 'D:/gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Content/Collections/' took 0.01s
+[2020.04.18-03.38.01:169][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.18-03.38.01:177][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2651 classes and 620 folders.
+[2020.04.18-03.38.01:197][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.18-03.38.01:199][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:216][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:216][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:218][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.18-03.38.01:286][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.18-03.38.02:366][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.18-03.38.02:426][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MetroStair
+[2020.04.18-03.38.02:426][  0]LogTemp: CWD: D:\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.04.18-03.38.02:426][  0]LogTemp: Initial Dir: D:\Epic Games\UE_4.21
+[2020.04.18-03.38.02:426][  0]LogTemp: Env CWD: D:\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.04.18-03.38.02:426][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.04.18-03.38.02:445][  0]LogTemp: BranchPath = AKI/D/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = AKI/D/Epic Games/UE_4.21/Engine/Binaries
+[2020.04.18-03.38.02:445][  0]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.18-03.38.02:448][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\slipk\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.04.18-03.38.02:448][  0]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.18-03.38.02:455][  0]LogSlate: Took 0.000445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.18-03.38.02:536][  0]LogRenderer: Reallocating scene render targets to support 1148x576 Format 10 NumSamples 1 (Frame:1).
+[2020.04.18-03.38.02:636][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.18-03.38.02:636][  0]LogLoad: (Engine Initialization) Total time: 11.75 seconds
+[2020.04.18-03.38.02:636][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.18-03.38.02:711][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.18-03.38.02:724][  0]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.18-03.38.02:743][  1]LogAssetRegistry: Asset discovery search completed in 6.9551 seconds
+[2020.04.18-03.38.02:745][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.18-03.38.02:745][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2020.04.18-03.38.12:180][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.18-03.38.18:761][ 43]LogSlate: Window 'New Level' being destroyed
+[2020.04.18-03.38.18:766][ 43]LightingResults: New page: Lighting Build
+[2020.04.18-03.38.18:767][ 43]MapCheck: New page: Map Check
+[2020.04.18-03.38.18:767][ 43]LightingResults: New page: Lighting Build
+[2020.04.18-03.38.18:788][ 43]LogAIModule: Creating AISystem for world Untitled
+[2020.04.18-03.38.18:790][ 43]LoadErrors: New page: New Map
+[2020.04.18-03.38.20:576][250]LogActorFactory: Actor Factory created metro_stair
+[2020.04.18-03.38.21:297][336]LogActorFactory: Actor Factory created metro_stair
+[2020.04.18-03.38.31:485][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (metro_stair)
+[2020.04.18-03.38.32:512][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.18-03.38.32:649][663]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.18-03.38.32:657][663]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/FBX/metro_stair/metro_stair.metro_stair
+[2020.04.18-03.38.33:358][663]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2020.04.18-03.38.33:358][663]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.18-03.39.10:971][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.39.17:744][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.18-03.39.18:742][337]LogSlate: Window 'metro_stair' being destroyed
+[2020.04.18-03.39.20:445][540]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (metro_stair)
+[2020.04.18-03.39.20:517][540]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.39.23:684][916]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.18-03.40.14:627][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.40.17:165][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.40.17:877][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.40.18:751][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.40.19:286][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.40.25:203][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.40.25:490][311]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.40.26:189][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.40.26:512][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.40.27:778][583]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.40.27:850][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.40.27:904][597]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.40.28:284][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-03.41.11:953][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.18-03.41.48:753][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.18-03.42.02:505][765]LogSlate: Window 'About Unreal Editor' being destroyed
+[2020.04.18-03.48.15:141][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.18-03.48.15:146][978]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Untitled_1_Auto173C3097E4BBFD37D3A4E02AA3F9BD8F9.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2020.04.18-03.48.15:149][978]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.029
+[2020.04.18-03.48.15:149][978]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.029
+[2020.04.18-04.05.02:413][ 39]LogEditorFactories: Performing atomic reimport of [D:/Blender_doc/metro_stair.fbx]
+[2020.04.18-04.05.02:443][ 39]LogFbx: Loading FBX Scene from D:/Blender_doc/metro_stair.fbx
+[2020.04.18-04.05.02:516][ 39]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.18-04.05.02:654][ 39]LogFbx: Warning: Triangulating static mesh Plane
+[2020.04.18-04.05.02:656][ 39]LogFbx: Warning: Triangulating static mesh Plane.001
+[2020.04.18-04.05.02:658][ 39]LogFbx: Warning: Triangulating static mesh Plane.002
+[2020.04.18-04.05.02:666][ 39]LogFbx: Warning: Triangulating static mesh pipe_main
+[2020.04.18-04.05.02:693][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot
+[2020.04.18-04.05.02:702][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub
+[2020.04.18-04.05.02:746][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.001
+[2020.04.18-04.05.02:755][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.001
+[2020.04.18-04.05.02:798][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.002
+[2020.04.18-04.05.02:808][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.007
+[2020.04.18-04.05.02:817][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.006
+[2020.04.18-04.05.02:827][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.005
+[2020.04.18-04.05.02:872][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.013
+[2020.04.18-04.05.02:881][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.004
+[2020.04.18-04.05.02:927][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.014
+[2020.04.18-04.05.02:937][ 39]LogFbx: Warning: Triangulating static mesh pipe_main.001
+[2020.04.18-04.05.02:963][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.005
+[2020.04.18-04.05.02:973][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.003
+[2020.04.18-04.05.03:017][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.004
+[2020.04.18-04.05.03:026][ 39]LogFbx: Warning: Triangulating static mesh pipe_main.003
+[2020.04.18-04.05.03:054][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.017
+[2020.04.18-04.05.03:065][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.010
+[2020.04.18-04.05.03:109][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.018
+[2020.04.18-04.05.03:119][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.011
+[2020.04.18-04.05.03:162][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.019
+[2020.04.18-04.05.03:172][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.012
+[2020.04.18-04.05.03:214][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.022
+[2020.04.18-04.05.03:223][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.013
+[2020.04.18-04.05.03:267][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.023
+[2020.04.18-04.05.03:275][ 39]LogFbx: Warning: Triangulating static mesh pipe_main.005
+[2020.04.18-04.05.03:300][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.003
+[2020.04.18-04.05.03:311][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.002
+[2020.04.18-04.05.03:353][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.031
+[2020.04.18-04.05.03:362][ 39]LogFbx: Warning: Triangulating static mesh pipe_main.006
+[2020.04.18-04.05.03:388][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.032
+[2020.04.18-04.05.03:397][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.018
+[2020.04.18-04.05.03:441][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.033
+[2020.04.18-04.05.03:450][ 39]LogFbx: Warning: Triangulating static mesh pipe_main.007
+[2020.04.18-04.05.03:475][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.034
+[2020.04.18-04.05.03:485][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.019
+[2020.04.18-04.05.03:529][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.035
+[2020.04.18-04.05.03:539][ 39]LogFbx: Warning: Triangulating static mesh pipe_main.008
+[2020.04.18-04.05.03:578][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.036
+[2020.04.18-04.05.03:588][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.020
+[2020.04.18-04.05.03:631][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.037
+[2020.04.18-04.05.03:641][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.021
+[2020.04.18-04.05.03:683][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.038
+[2020.04.18-04.05.03:693][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.022
+[2020.04.18-04.05.03:737][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.039
+[2020.04.18-04.05.03:746][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.023
+[2020.04.18-04.05.03:789][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.040
+[2020.04.18-04.05.03:797][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.024
+[2020.04.18-04.05.03:840][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.041
+[2020.04.18-04.05.03:849][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.025
+[2020.04.18-04.05.03:894][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.042
+[2020.04.18-04.05.03:903][ 39]LogFbx: Warning: Triangulating static mesh pipe_main.009
+[2020.04.18-04.05.03:941][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.043
+[2020.04.18-04.05.03:950][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.026
+[2020.04.18-04.05.03:992][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.044
+[2020.04.18-04.05.04:001][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.027
+[2020.04.18-04.05.04:043][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.045
+[2020.04.18-04.05.04:052][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.028
+[2020.04.18-04.05.04:096][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.046
+[2020.04.18-04.05.04:105][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.029
+[2020.04.18-04.05.04:148][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.047
+[2020.04.18-04.05.04:159][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.030
+[2020.04.18-04.05.04:204][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.048
+[2020.04.18-04.05.04:214][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.031
+[2020.04.18-04.05.04:263][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.049
+[2020.04.18-04.05.04:274][ 39]LogFbx: Warning: Triangulating static mesh pipe_main.010
+[2020.04.18-04.05.04:306][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.050
+[2020.04.18-04.05.04:317][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.032
+[2020.04.18-04.05.04:361][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.051
+[2020.04.18-04.05.04:372][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.033
+[2020.04.18-04.05.04:416][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.052
+[2020.04.18-04.05.04:425][ 39]LogFbx: Warning: Triangulating static mesh pipe_main.011
+[2020.04.18-04.05.04:457][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.053
+[2020.04.18-04.05.04:467][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.034
+[2020.04.18-04.05.04:511][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.054
+[2020.04.18-04.05.04:520][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.035
+[2020.04.18-04.05.04:565][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.055
+[2020.04.18-04.05.04:574][ 39]LogFbx: Warning: Triangulating static mesh Cube
+[2020.04.18-04.05.04:576][ 39]LogFbx: Warning: Triangulating static mesh water_pipe
+[2020.04.18-04.05.04:604][ 39]LogFbx: Warning: Triangulating static mesh Cylinder
+[2020.04.18-04.05.04:608][ 39]LogFbx: Warning: Triangulating static mesh Cylinder.001
+[2020.04.18-04.05.04:609][ 39]LogFbx: Warning: Triangulating static mesh Cylinder.002
+[2020.04.18-04.05.04:609][ 39]LogFbx: Warning: Triangulating static mesh Cylinder.003
+[2020.04.18-04.05.04:613][ 39]LogFbx: Warning: Triangulating static mesh Cylinder.004
+[2020.04.18-04.05.04:615][ 39]LogFbx: Warning: Triangulating static mesh Cylinder.005
+[2020.04.18-04.05.04:616][ 39]LogFbx: Warning: Triangulating static mesh Cylinder.006
+[2020.04.18-04.05.04:620][ 39]LogFbx: Warning: Triangulating static mesh Cylinder.007
+[2020.04.18-04.05.04:620][ 39]LogFbx: Warning: Triangulating static mesh Cylinder.008
+[2020.04.18-04.05.04:621][ 39]LogFbx: Warning: Triangulating static mesh Cylinder.009
+[2020.04.18-04.05.04:625][ 39]LogFbx: Warning: Triangulating static mesh Cylinder.010
+[2020.04.18-04.05.04:626][ 39]LogFbx: Warning: Triangulating static mesh Cylinder.011
+[2020.04.18-04.05.04:627][ 39]LogFbx: Warning: Triangulating static mesh Cube.001
+[2020.04.18-04.05.04:631][ 39]LogFbx: Warning: Triangulating static mesh Cube.002
+[2020.04.18-04.05.04:654][ 39]LogFbx: Warning: Triangulating static mesh Cube.004
+[2020.04.18-04.05.04:658][ 39]LogFbx: Warning: Triangulating static mesh Cube.005
+[2020.04.18-04.05.04:682][ 39]LogFbx: Warning: Triangulating static mesh Cube.006
+[2020.04.18-04.05.04:685][ 39]LogFbx: Warning: Triangulating static mesh Cube.007
+[2020.04.18-04.05.04:687][ 39]LogFbx: Warning: Triangulating static mesh Cube.008
+[2020.04.18-04.05.04:687][ 39]LogFbx: Warning: Triangulating static mesh Cube.009
+[2020.04.18-04.05.04:690][ 39]LogFbx: Warning: Triangulating static mesh Cube.010
+[2020.04.18-04.05.04:690][ 39]LogFbx: Warning: Triangulating static mesh Cube.011
+[2020.04.18-04.05.04:693][ 39]LogFbx: Warning: Triangulating static mesh Cube.012
+[2020.04.18-04.05.04:694][ 39]LogFbx: Warning: Triangulating static mesh Cube.013
+[2020.04.18-04.05.04:697][ 39]LogFbx: Warning: Triangulating static mesh Cube.014
+[2020.04.18-04.05.04:697][ 39]LogFbx: Warning: Triangulating static mesh Cube.015
+[2020.04.18-04.05.04:700][ 39]LogFbx: Warning: Triangulating static mesh pipe_main.002
+[2020.04.18-04.05.04:726][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.016
+[2020.04.18-04.05.04:736][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.010
+[2020.04.18-04.05.04:745][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.009
+[2020.04.18-04.05.04:787][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.008
+[2020.04.18-04.05.04:830][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.012
+[2020.04.18-04.05.04:840][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.007
+[2020.04.18-04.05.04:885][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.008
+[2020.04.18-04.05.04:894][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.006
+[2020.04.18-04.05.04:943][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.009
+[2020.04.18-04.05.04:955][ 39]LogFbx: Warning: Triangulating static mesh pipe_main.004
+[2020.04.18-04.05.04:982][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.024
+[2020.04.18-04.05.04:991][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.028
+[2020.04.18-04.05.05:000][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.014
+[2020.04.18-04.05.05:044][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.015
+[2020.04.18-04.05.05:087][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.026
+[2020.04.18-04.05.05:097][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.016
+[2020.04.18-04.05.05:140][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.030
+[2020.04.18-04.05.05:150][ 39]LogFbx: Warning: Triangulating static mesh pipe_sub.017
+[2020.04.18-04.05.05:193][ 39]LogFbx: Warning: Triangulating static mesh pipe_foot.029
+[2020.04.18-04.05.05:453][ 39]LogStaticMesh: Building static mesh metro_stair...
+[2020.04.18-04.05.08:451][ 39]LogStaticMesh: Built static mesh [3.00s] /Game/FBX/metro_stair/metro_stair.metro_stair
+[2020.04.18-04.05.08:594][ 39]LogStaticMesh: Warning: metro_stair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.18-04.05.08:594][ 39]LogStaticMesh: Warning: metro_stair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.18-04.05.08:768][ 39]LogEditorFactories: -- imported successfully
+[2020.04.18-04.05.08:779][ 39]FBXImport: Warning: metro_stair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.18-04.05.08:779][ 39]FBXImport: Warning: metro_stair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.18-04.06.00:915][913]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.06.02:646][ 74]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.654 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.18-04.06.08:883][557]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.18-04.06.13:483][612]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Blender_doc\metro_stair.fbx)
+[2020.04.18-04.06.13:498][612]LogFbx: Loading FBX Scene from D:\Blender_doc\metro_stair.fbx
+[2020.04.18-04.06.13:572][612]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.18-04.06.43:910][612]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.18-04.06.43:926][612]LogFbx: Warning: Triangulating static mesh Plane
+[2020.04.18-04.06.43:928][612]LogFbx: Warning: Triangulating static mesh Plane.001
+[2020.04.18-04.06.43:930][612]LogFbx: Warning: Triangulating static mesh Plane.002
+[2020.04.18-04.06.43:940][612]LogFbx: Warning: Triangulating static mesh pipe_main
+[2020.04.18-04.06.43:968][612]LogFbx: Warning: Triangulating static mesh pipe_foot
+[2020.04.18-04.06.43:978][612]LogFbx: Warning: Triangulating static mesh pipe_sub
+[2020.04.18-04.06.44:023][612]LogFbx: Warning: Triangulating static mesh pipe_foot.001
+[2020.04.18-04.06.44:033][612]LogFbx: Warning: Triangulating static mesh pipe_sub.001
+[2020.04.18-04.06.44:076][612]LogFbx: Warning: Triangulating static mesh pipe_foot.002
+[2020.04.18-04.06.44:085][612]LogFbx: Warning: Triangulating static mesh pipe_foot.007
+[2020.04.18-04.06.44:095][612]LogFbx: Warning: Triangulating static mesh pipe_foot.006
+[2020.04.18-04.06.44:105][612]LogFbx: Warning: Triangulating static mesh pipe_sub.005
+[2020.04.18-04.06.44:149][612]LogFbx: Warning: Triangulating static mesh pipe_foot.013
+[2020.04.18-04.06.44:159][612]LogFbx: Warning: Triangulating static mesh pipe_sub.004
+[2020.04.18-04.06.44:203][612]LogFbx: Warning: Triangulating static mesh pipe_foot.014
+[2020.04.18-04.06.44:212][612]LogFbx: Warning: Triangulating static mesh pipe_main.001
+[2020.04.18-04.06.44:238][612]LogFbx: Warning: Triangulating static mesh pipe_foot.005
+[2020.04.18-04.06.44:247][612]LogFbx: Warning: Triangulating static mesh pipe_sub.003
+[2020.04.18-04.06.44:293][612]LogFbx: Warning: Triangulating static mesh pipe_foot.004
+[2020.04.18-04.06.44:302][612]LogFbx: Warning: Triangulating static mesh pipe_main.003
+[2020.04.18-04.06.44:330][612]LogFbx: Warning: Triangulating static mesh pipe_foot.017
+[2020.04.18-04.06.44:340][612]LogFbx: Warning: Triangulating static mesh pipe_sub.010
+[2020.04.18-04.06.44:384][612]LogFbx: Warning: Triangulating static mesh pipe_foot.018
+[2020.04.18-04.06.44:394][612]LogFbx: Warning: Triangulating static mesh pipe_sub.011
+[2020.04.18-04.06.44:438][612]LogFbx: Warning: Triangulating static mesh pipe_foot.019
+[2020.04.18-04.06.44:447][612]LogFbx: Warning: Triangulating static mesh pipe_sub.012
+[2020.04.18-04.06.44:492][612]LogFbx: Warning: Triangulating static mesh pipe_foot.022
+[2020.04.18-04.06.44:503][612]LogFbx: Warning: Triangulating static mesh pipe_sub.013
+[2020.04.18-04.06.44:546][612]LogFbx: Warning: Triangulating static mesh pipe_foot.023
+[2020.04.18-04.06.44:556][612]LogFbx: Warning: Triangulating static mesh pipe_main.005
+[2020.04.18-04.06.44:580][612]LogFbx: Warning: Triangulating static mesh pipe_foot.003
+[2020.04.18-04.06.44:591][612]LogFbx: Warning: Triangulating static mesh pipe_sub.002
+[2020.04.18-04.06.44:636][612]LogFbx: Warning: Triangulating static mesh pipe_foot.031
+[2020.04.18-04.06.44:645][612]LogFbx: Warning: Triangulating static mesh pipe_main.006
+[2020.04.18-04.06.44:670][612]LogFbx: Warning: Triangulating static mesh pipe_foot.032
+[2020.04.18-04.06.44:680][612]LogFbx: Warning: Triangulating static mesh pipe_sub.018
+[2020.04.18-04.06.44:724][612]LogFbx: Warning: Triangulating static mesh pipe_foot.033
+[2020.04.18-04.06.44:734][612]LogFbx: Warning: Triangulating static mesh pipe_main.007
+[2020.04.18-04.06.44:759][612]LogFbx: Warning: Triangulating static mesh pipe_foot.034
+[2020.04.18-04.06.44:768][612]LogFbx: Warning: Triangulating static mesh pipe_sub.019
+[2020.04.18-04.06.44:812][612]LogFbx: Warning: Triangulating static mesh pipe_foot.035
+[2020.04.18-04.06.44:822][612]LogFbx: Warning: Triangulating static mesh pipe_main.008
+[2020.04.18-04.06.44:861][612]LogFbx: Warning: Triangulating static mesh pipe_foot.036
+[2020.04.18-04.06.44:870][612]LogFbx: Warning: Triangulating static mesh pipe_sub.020
+[2020.04.18-04.06.44:914][612]LogFbx: Warning: Triangulating static mesh pipe_foot.037
+[2020.04.18-04.06.44:923][612]LogFbx: Warning: Triangulating static mesh pipe_sub.021
+[2020.04.18-04.06.44:967][612]LogFbx: Warning: Triangulating static mesh pipe_foot.038
+[2020.04.18-04.06.44:976][612]LogFbx: Warning: Triangulating static mesh pipe_sub.022
+[2020.04.18-04.06.45:020][612]LogFbx: Warning: Triangulating static mesh pipe_foot.039
+[2020.04.18-04.06.45:029][612]LogFbx: Warning: Triangulating static mesh pipe_sub.023
+[2020.04.18-04.06.45:073][612]LogFbx: Warning: Triangulating static mesh pipe_foot.040
+[2020.04.18-04.06.45:082][612]LogFbx: Warning: Triangulating static mesh pipe_sub.024
+[2020.04.18-04.06.45:126][612]LogFbx: Warning: Triangulating static mesh pipe_foot.041
+[2020.04.18-04.06.45:136][612]LogFbx: Warning: Triangulating static mesh pipe_sub.025
+[2020.04.18-04.06.45:183][612]LogFbx: Warning: Triangulating static mesh pipe_foot.042
+[2020.04.18-04.06.45:192][612]LogFbx: Warning: Triangulating static mesh pipe_main.009
+[2020.04.18-04.06.45:231][612]LogFbx: Warning: Triangulating static mesh pipe_foot.043
+[2020.04.18-04.06.45:240][612]LogFbx: Warning: Triangulating static mesh pipe_sub.026
+[2020.04.18-04.06.45:284][612]LogFbx: Warning: Triangulating static mesh pipe_foot.044
+[2020.04.18-04.06.45:293][612]LogFbx: Warning: Triangulating static mesh pipe_sub.027
+[2020.04.18-04.06.45:337][612]LogFbx: Warning: Triangulating static mesh pipe_foot.045
+[2020.04.18-04.06.45:346][612]LogFbx: Warning: Triangulating static mesh pipe_sub.028
+[2020.04.18-04.06.45:389][612]LogFbx: Warning: Triangulating static mesh pipe_foot.046
+[2020.04.18-04.06.45:398][612]LogFbx: Warning: Triangulating static mesh pipe_sub.029
+[2020.04.18-04.06.45:442][612]LogFbx: Warning: Triangulating static mesh pipe_foot.047
+[2020.04.18-04.06.45:454][612]LogFbx: Warning: Triangulating static mesh pipe_sub.030
+[2020.04.18-04.06.45:501][612]LogFbx: Warning: Triangulating static mesh pipe_foot.048
+[2020.04.18-04.06.45:510][612]LogFbx: Warning: Triangulating static mesh pipe_sub.031
+[2020.04.18-04.06.45:554][612]LogFbx: Warning: Triangulating static mesh pipe_foot.049
+[2020.04.18-04.06.45:562][612]LogFbx: Warning: Triangulating static mesh pipe_main.010
+[2020.04.18-04.06.45:594][612]LogFbx: Warning: Triangulating static mesh pipe_foot.050
+[2020.04.18-04.06.45:604][612]LogFbx: Warning: Triangulating static mesh pipe_sub.032
+[2020.04.18-04.06.45:650][612]LogFbx: Warning: Triangulating static mesh pipe_foot.051
+[2020.04.18-04.06.45:660][612]LogFbx: Warning: Triangulating static mesh pipe_sub.033
+[2020.04.18-04.06.45:705][612]LogFbx: Warning: Triangulating static mesh pipe_foot.052
+[2020.04.18-04.06.45:714][612]LogFbx: Warning: Triangulating static mesh pipe_main.011
+[2020.04.18-04.06.45:746][612]LogFbx: Warning: Triangulating static mesh pipe_foot.053
+[2020.04.18-04.06.45:755][612]LogFbx: Warning: Triangulating static mesh pipe_sub.034
+[2020.04.18-04.06.45:798][612]LogFbx: Warning: Triangulating static mesh pipe_foot.054
+[2020.04.18-04.06.45:807][612]LogFbx: Warning: Triangulating static mesh pipe_sub.035
+[2020.04.18-04.06.45:851][612]LogFbx: Warning: Triangulating static mesh pipe_foot.055
+[2020.04.18-04.06.45:861][612]LogFbx: Warning: Triangulating static mesh Cube
+[2020.04.18-04.06.45:863][612]LogFbx: Warning: Triangulating static mesh water_pipe
+[2020.04.18-04.06.45:890][612]LogFbx: Warning: Triangulating static mesh Cylinder
+[2020.04.18-04.06.45:894][612]LogFbx: Warning: Triangulating static mesh Cylinder.001
+[2020.04.18-04.06.45:895][612]LogFbx: Warning: Triangulating static mesh Cylinder.002
+[2020.04.18-04.06.45:895][612]LogFbx: Warning: Triangulating static mesh Cylinder.003
+[2020.04.18-04.06.45:900][612]LogFbx: Warning: Triangulating static mesh Cylinder.004
+[2020.04.18-04.06.45:901][612]LogFbx: Warning: Triangulating static mesh Cylinder.005
+[2020.04.18-04.06.45:902][612]LogFbx: Warning: Triangulating static mesh Cylinder.006
+[2020.04.18-04.06.45:906][612]LogFbx: Warning: Triangulating static mesh Cylinder.007
+[2020.04.18-04.06.45:907][612]LogFbx: Warning: Triangulating static mesh Cylinder.008
+[2020.04.18-04.06.45:907][612]LogFbx: Warning: Triangulating static mesh Cylinder.009
+[2020.04.18-04.06.45:912][612]LogFbx: Warning: Triangulating static mesh Cylinder.010
+[2020.04.18-04.06.45:912][612]LogFbx: Warning: Triangulating static mesh Cylinder.011
+[2020.04.18-04.06.45:913][612]LogFbx: Warning: Triangulating static mesh Cube.001
+[2020.04.18-04.06.45:917][612]LogFbx: Warning: Triangulating static mesh Cube.002
+[2020.04.18-04.06.45:942][612]LogFbx: Warning: Triangulating static mesh Cube.004
+[2020.04.18-04.06.45:946][612]LogFbx: Warning: Triangulating static mesh Cube.005
+[2020.04.18-04.06.45:971][612]LogFbx: Warning: Triangulating static mesh Cube.006
+[2020.04.18-04.06.46:123][612]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2020.04.18-04.06.46:163][612]LogFbx: Warning: Triangulating static mesh Cube.007
+[2020.04.18-04.06.46:166][612]LogFbx: Warning: Triangulating static mesh Cube.008
+[2020.04.18-04.06.46:167][612]LogFbx: Warning: Triangulating static mesh Cube.009
+[2020.04.18-04.06.46:170][612]LogFbx: Warning: Triangulating static mesh Cube.010
+[2020.04.18-04.06.46:170][612]LogFbx: Warning: Triangulating static mesh Cube.011
+[2020.04.18-04.06.46:173][612]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.04.18-04.06.46:173][612]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.04.18-04.06.46:173][612]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.18-04.06.46:173][612]LogFbx: Warning: Triangulating static mesh Cube.012
+[2020.04.18-04.06.46:174][612]LogFbx: Warning: Triangulating static mesh Cube.013
+[2020.04.18-04.06.46:177][612]LogFbx: Warning: Triangulating static mesh Cube.014
+[2020.04.18-04.06.46:178][612]LogFbx: Warning: Triangulating static mesh Cube.015
+[2020.04.18-04.06.46:181][612]LogFbx: Warning: Triangulating static mesh pipe_main.002
+[2020.04.18-04.06.46:220][612]LogFbx: Warning: Triangulating static mesh pipe_foot.016
+[2020.04.18-04.06.46:234][612]LogFbx: Warning: Triangulating static mesh pipe_foot.010
+[2020.04.18-04.06.46:245][612]LogFbx: Warning: Triangulating static mesh pipe_sub.009
+[2020.04.18-04.06.46:304][612]LogFbx: Warning: Triangulating static mesh pipe_sub.008
+[2020.04.18-04.06.46:354][612]LogFbx: Warning: Triangulating static mesh pipe_foot.012
+[2020.04.18-04.06.46:367][612]LogFbx: Warning: Triangulating static mesh pipe_sub.007
+[2020.04.18-04.06.46:429][612]LogFbx: Warning: Triangulating static mesh pipe_foot.008
+[2020.04.18-04.06.46:443][612]LogFbx: Warning: Triangulating static mesh pipe_sub.006
+[2020.04.18-04.06.46:506][612]LogFbx: Warning: Triangulating static mesh pipe_foot.009
+[2020.04.18-04.06.46:520][612]LogFbx: Warning: Triangulating static mesh pipe_main.004
+[2020.04.18-04.06.46:559][612]LogFbx: Warning: Triangulating static mesh pipe_foot.024
+[2020.04.18-04.06.46:574][612]LogFbx: Warning: Triangulating static mesh pipe_foot.028
+[2020.04.18-04.06.46:584][612]LogFbx: Warning: Triangulating static mesh pipe_sub.014
+[2020.04.18-04.06.46:638][612]LogFbx: Warning: Triangulating static mesh pipe_sub.015
+[2020.04.18-04.06.46:694][612]LogFbx: Warning: Triangulating static mesh pipe_foot.026
+[2020.04.18-04.06.46:705][612]LogFbx: Warning: Triangulating static mesh pipe_sub.016
+[2020.04.18-04.06.46:759][612]LogFbx: Warning: Triangulating static mesh pipe_foot.030
+[2020.04.18-04.06.46:773][612]LogFbx: Warning: Triangulating static mesh pipe_sub.017
+[2020.04.18-04.06.46:828][612]LogFbx: Warning: Triangulating static mesh pipe_foot.029
+[2020.04.18-04.06.47:119][612]LogStaticMesh: Building static mesh metro_stair...
+[2020.04.18-04.06.50:440][612]LogStaticMesh: Built static mesh [3.32s] /Game/FBX/metro_stair/metro_stair.metro_stair
+[2020.04.18-04.06.50:584][612]LogStaticMesh: Warning: metro_stair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.18-04.06.50:584][612]LogStaticMesh: Warning: metro_stair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.18-04.06.50:732][612]FBXImport: Warning: metro_stair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.18-04.06.50:732][612]FBXImport: Warning: metro_stair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.18-04.06.52:399][791]LogActorFactory: Actor Factory created metro_stair
+[2020.04.18-04.06.53:614][936]LogActorFactory: Actor Factory created metro_stair
+[2020.04.18-04.06.53:898][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.06.53:942][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Autosaves/Temp/Untitled_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.18-04.06.53:946][964]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Untitled_1_Auto29CFAA42A469D5331F03B24BDFE544457.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2020.04.18-04.06.53:950][964]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.036
+[2020.04.18-04.06.53:950][964]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.036
+[2020.04.18-04.06.53:952][964]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/metro_stair/metro_stair] ([1] browsable assets)...
+[2020.04.18-04.06.53:961][964]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/metro_stair/metro_stair.metro_stair]
+[2020.04.18-04.06.53:961][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/metro_stair/metro_stair]
+[2020.04.18-04.06.53:974][964]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/metro_stair_Auto2730E44AA46DCFBDFCBCC7C9FD0726567.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Autosaves/Game/FBX/metro_stair/metro_stair_Auto2.uasset'
+[2020.04.18-04.06.53:977][964]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/metro_stair/Material_001] ([1] browsable assets)...
+[2020.04.18-04.06.53:987][964]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FBX/metro_stair/Material_001.Material_001]
+[2020.04.18-04.06.53:987][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/metro_stair/Material_001]
+[2020.04.18-04.06.53:995][964]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Material_001_Auto22B3C08624982F4715F737A8EC5CC94F9.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Autosaves/Game/FBX/metro_stair/Material_001_Auto2.uasset'
+[2020.04.18-04.06.53:996][964]LogFileHelpers: Auto-saving content packages took 0.046
+[2020.04.18-04.07.41:577][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.12.06:499][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.16.30:045][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.17.17:548][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Autosaves/Temp/Untitled_1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.18-04.17.17:552][699]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Untitled_1_Auto3D446FD63464364CB2CA9E2966DF7C60A.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2020.04.18-04.17.17:555][699]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.026
+[2020.04.18-04.17.17:555][699]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.026
+[2020.04.18-04.25.41:271][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.25.50:160][264]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/FBX/metro_stair/metro_stair.metro_stair
+[2020.04.18-04.25.51:751][427]LogEditorFactories: Performing atomic reimport of [D:/Blender_doc/metro_stair.fbx]
+[2020.04.18-04.25.51:776][427]LogFbx: Loading FBX Scene from D:/Blender_doc/metro_stair.fbx
+[2020.04.18-04.25.51:847][427]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.18-04.25.51:921][427]LogFbx: Warning: Triangulating static mesh Plane
+[2020.04.18-04.25.51:923][427]LogFbx: Warning: Triangulating static mesh Plane.001
+[2020.04.18-04.25.51:925][427]LogFbx: Warning: Triangulating static mesh Plane.002
+[2020.04.18-04.25.51:934][427]LogFbx: Warning: Triangulating static mesh pipe_main
+[2020.04.18-04.25.51:961][427]LogFbx: Warning: Triangulating static mesh pipe_foot
+[2020.04.18-04.25.51:971][427]LogFbx: Warning: Triangulating static mesh pipe_sub
+[2020.04.18-04.25.52:014][427]LogFbx: Warning: Triangulating static mesh pipe_foot.001
+[2020.04.18-04.25.52:023][427]LogFbx: Warning: Triangulating static mesh pipe_sub.001
+[2020.04.18-04.25.52:066][427]LogFbx: Warning: Triangulating static mesh pipe_foot.002
+[2020.04.18-04.25.52:075][427]LogFbx: Warning: Triangulating static mesh pipe_sub.005
+[2020.04.18-04.25.52:118][427]LogFbx: Warning: Triangulating static mesh pipe_foot.013
+[2020.04.18-04.25.52:127][427]LogFbx: Warning: Triangulating static mesh pipe_sub.004
+[2020.04.18-04.25.52:171][427]LogFbx: Warning: Triangulating static mesh pipe_foot.014
+[2020.04.18-04.25.52:180][427]LogFbx: Warning: Triangulating static mesh pipe_main.001
+[2020.04.18-04.25.52:205][427]LogFbx: Warning: Triangulating static mesh pipe_foot.005
+[2020.04.18-04.25.52:216][427]LogFbx: Warning: Triangulating static mesh pipe_sub.003
+[2020.04.18-04.25.52:259][427]LogFbx: Warning: Triangulating static mesh pipe_foot.004
+[2020.04.18-04.25.52:270][427]LogFbx: Warning: Triangulating static mesh pipe_main.003
+[2020.04.18-04.25.52:296][427]LogFbx: Warning: Triangulating static mesh pipe_foot.017
+[2020.04.18-04.25.52:306][427]LogFbx: Warning: Triangulating static mesh pipe_sub.010
+[2020.04.18-04.25.52:348][427]LogFbx: Warning: Triangulating static mesh pipe_foot.018
+[2020.04.18-04.25.52:357][427]LogFbx: Warning: Triangulating static mesh pipe_sub.011
+[2020.04.18-04.25.52:399][427]LogFbx: Warning: Triangulating static mesh pipe_foot.019
+[2020.04.18-04.25.52:408][427]LogFbx: Warning: Triangulating static mesh pipe_sub.012
+[2020.04.18-04.25.52:452][427]LogFbx: Warning: Triangulating static mesh pipe_foot.022
+[2020.04.18-04.25.52:461][427]LogFbx: Warning: Triangulating static mesh pipe_sub.013
+[2020.04.18-04.25.52:507][427]LogFbx: Warning: Triangulating static mesh pipe_foot.023
+[2020.04.18-04.25.52:517][427]LogFbx: Warning: Triangulating static mesh pipe_main.005
+[2020.04.18-04.25.52:541][427]LogFbx: Warning: Triangulating static mesh pipe_foot.003
+[2020.04.18-04.25.52:551][427]LogFbx: Warning: Triangulating static mesh pipe_sub.002
+[2020.04.18-04.25.52:595][427]LogFbx: Warning: Triangulating static mesh pipe_foot.031
+[2020.04.18-04.25.52:605][427]LogFbx: Warning: Triangulating static mesh pipe_main.006
+[2020.04.18-04.25.52:629][427]LogFbx: Warning: Triangulating static mesh pipe_foot.032
+[2020.04.18-04.25.52:638][427]LogFbx: Warning: Triangulating static mesh pipe_sub.018
+[2020.04.18-04.25.52:679][427]LogFbx: Warning: Triangulating static mesh pipe_foot.033
+[2020.04.18-04.25.52:689][427]LogFbx: Warning: Triangulating static mesh pipe_main.007
+[2020.04.18-04.25.52:713][427]LogFbx: Warning: Triangulating static mesh pipe_foot.034
+[2020.04.18-04.25.52:722][427]LogFbx: Warning: Triangulating static mesh pipe_sub.019
+[2020.04.18-04.25.52:763][427]LogFbx: Warning: Triangulating static mesh pipe_foot.035
+[2020.04.18-04.25.52:772][427]LogFbx: Warning: Triangulating static mesh pipe_main.008
+[2020.04.18-04.25.52:811][427]LogFbx: Warning: Triangulating static mesh pipe_foot.036
+[2020.04.18-04.25.52:821][427]LogFbx: Warning: Triangulating static mesh pipe_sub.020
+[2020.04.18-04.25.52:864][427]LogFbx: Warning: Triangulating static mesh pipe_foot.037
+[2020.04.18-04.25.52:873][427]LogFbx: Warning: Triangulating static mesh pipe_sub.021
+[2020.04.18-04.25.52:916][427]LogFbx: Warning: Triangulating static mesh pipe_foot.038
+[2020.04.18-04.25.52:925][427]LogFbx: Warning: Triangulating static mesh pipe_sub.022
+[2020.04.18-04.25.52:968][427]LogFbx: Warning: Triangulating static mesh pipe_foot.039
+[2020.04.18-04.25.52:977][427]LogFbx: Warning: Triangulating static mesh pipe_sub.023
+[2020.04.18-04.25.53:019][427]LogFbx: Warning: Triangulating static mesh pipe_foot.040
+[2020.04.18-04.25.53:029][427]LogFbx: Warning: Triangulating static mesh pipe_sub.024
+[2020.04.18-04.25.53:071][427]LogFbx: Warning: Triangulating static mesh pipe_foot.041
+[2020.04.18-04.25.53:080][427]LogFbx: Warning: Triangulating static mesh pipe_sub.025
+[2020.04.18-04.25.53:122][427]LogFbx: Warning: Triangulating static mesh pipe_foot.042
+[2020.04.18-04.25.53:131][427]LogFbx: Warning: Triangulating static mesh pipe_main.009
+[2020.04.18-04.25.53:171][427]LogFbx: Warning: Triangulating static mesh pipe_foot.043
+[2020.04.18-04.25.53:180][427]LogFbx: Warning: Triangulating static mesh pipe_sub.026
+[2020.04.18-04.25.53:224][427]LogFbx: Warning: Triangulating static mesh pipe_foot.044
+[2020.04.18-04.25.53:233][427]LogFbx: Warning: Triangulating static mesh pipe_sub.027
+[2020.04.18-04.25.53:276][427]LogFbx: Warning: Triangulating static mesh pipe_foot.045
+[2020.04.18-04.25.53:285][427]LogFbx: Warning: Triangulating static mesh pipe_sub.028
+[2020.04.18-04.25.53:329][427]LogFbx: Warning: Triangulating static mesh pipe_foot.046
+[2020.04.18-04.25.53:340][427]LogFbx: Warning: Triangulating static mesh pipe_sub.029
+[2020.04.18-04.25.53:382][427]LogFbx: Warning: Triangulating static mesh pipe_foot.047
+[2020.04.18-04.25.53:391][427]LogFbx: Warning: Triangulating static mesh pipe_sub.030
+[2020.04.18-04.25.53:433][427]LogFbx: Warning: Triangulating static mesh pipe_foot.048
+[2020.04.18-04.25.53:442][427]LogFbx: Warning: Triangulating static mesh pipe_sub.031
+[2020.04.18-04.25.53:485][427]LogFbx: Warning: Triangulating static mesh pipe_foot.049
+[2020.04.18-04.25.53:494][427]LogFbx: Warning: Triangulating static mesh pipe_main.010
+[2020.04.18-04.25.53:526][427]LogFbx: Warning: Triangulating static mesh pipe_foot.050
+[2020.04.18-04.25.53:536][427]LogFbx: Warning: Triangulating static mesh pipe_sub.032
+[2020.04.18-04.25.53:579][427]LogFbx: Warning: Triangulating static mesh pipe_foot.051
+[2020.04.18-04.25.53:588][427]LogFbx: Warning: Triangulating static mesh pipe_sub.033
+[2020.04.18-04.25.53:633][427]LogFbx: Warning: Triangulating static mesh pipe_foot.052
+[2020.04.18-04.25.53:642][427]LogFbx: Warning: Triangulating static mesh pipe_main.011
+[2020.04.18-04.25.53:673][427]LogFbx: Warning: Triangulating static mesh pipe_foot.053
+[2020.04.18-04.25.53:682][427]LogFbx: Warning: Triangulating static mesh pipe_sub.034
+[2020.04.18-04.25.53:724][427]LogFbx: Warning: Triangulating static mesh pipe_foot.054
+[2020.04.18-04.25.53:734][427]LogFbx: Warning: Triangulating static mesh pipe_sub.035
+[2020.04.18-04.25.53:776][427]LogFbx: Warning: Triangulating static mesh pipe_foot.055
+[2020.04.18-04.25.53:785][427]LogFbx: Warning: Triangulating static mesh Cube
+[2020.04.18-04.25.53:786][427]LogFbx: Warning: Triangulating static mesh water_pipe
+[2020.04.18-04.25.53:813][427]LogFbx: Warning: Triangulating static mesh Cylinder
+[2020.04.18-04.25.53:817][427]LogFbx: Warning: Triangulating static mesh Cylinder.001
+[2020.04.18-04.25.53:818][427]LogFbx: Warning: Triangulating static mesh Cylinder.002
+[2020.04.18-04.25.53:819][427]LogFbx: Warning: Triangulating static mesh Cylinder.003
+[2020.04.18-04.25.53:824][427]LogFbx: Warning: Triangulating static mesh Cylinder.004
+[2020.04.18-04.25.53:825][427]LogFbx: Warning: Triangulating static mesh Cylinder.005
+[2020.04.18-04.25.53:825][427]LogFbx: Warning: Triangulating static mesh Cylinder.006
+[2020.04.18-04.25.53:829][427]LogFbx: Warning: Triangulating static mesh Cylinder.007
+[2020.04.18-04.25.53:830][427]LogFbx: Warning: Triangulating static mesh Cylinder.008
+[2020.04.18-04.25.53:831][427]LogFbx: Warning: Triangulating static mesh Cylinder.009
+[2020.04.18-04.25.53:835][427]LogFbx: Warning: Triangulating static mesh Cylinder.010
+[2020.04.18-04.25.53:835][427]LogFbx: Warning: Triangulating static mesh Cylinder.011
+[2020.04.18-04.25.53:836][427]LogFbx: Warning: Triangulating static mesh Cube.001
+[2020.04.18-04.25.53:841][427]LogFbx: Warning: Triangulating static mesh Cube.002
+[2020.04.18-04.25.53:866][427]LogFbx: Warning: Triangulating static mesh Cube.004
+[2020.04.18-04.25.53:870][427]LogFbx: Warning: Triangulating static mesh Cube.005
+[2020.04.18-04.25.53:895][427]LogFbx: Warning: Triangulating static mesh Cube.006
+[2020.04.18-04.25.53:895][427]LogFbx: Warning: Triangulating static mesh Cube.007
+[2020.04.18-04.25.53:898][427]LogFbx: Warning: Triangulating static mesh Cube.008
+[2020.04.18-04.25.53:899][427]LogFbx: Warning: Triangulating static mesh Cube.009
+[2020.04.18-04.25.53:902][427]LogFbx: Warning: Triangulating static mesh Cube.010
+[2020.04.18-04.25.53:902][427]LogFbx: Warning: Triangulating static mesh Cube.011
+[2020.04.18-04.25.53:905][427]LogFbx: Warning: Triangulating static mesh Cube.012
+[2020.04.18-04.25.53:906][427]LogFbx: Warning: Triangulating static mesh Cube.013
+[2020.04.18-04.25.53:908][427]LogFbx: Warning: Triangulating static mesh Cube.014
+[2020.04.18-04.25.53:909][427]LogFbx: Warning: Triangulating static mesh Cube.015
+[2020.04.18-04.25.53:912][427]LogFbx: Warning: Triangulating static mesh pipe_main.002
+[2020.04.18-04.25.53:939][427]LogFbx: Warning: Triangulating static mesh pipe_foot.016
+[2020.04.18-04.25.53:948][427]LogFbx: Warning: Triangulating static mesh pipe_foot.010
+[2020.04.18-04.25.53:957][427]LogFbx: Warning: Triangulating static mesh pipe_sub.009
+[2020.04.18-04.25.53:999][427]LogFbx: Warning: Triangulating static mesh pipe_sub.008
+[2020.04.18-04.25.54:042][427]LogFbx: Warning: Triangulating static mesh pipe_foot.012
+[2020.04.18-04.25.54:051][427]LogFbx: Warning: Triangulating static mesh pipe_sub.007
+[2020.04.18-04.25.54:093][427]LogFbx: Warning: Triangulating static mesh pipe_foot.008
+[2020.04.18-04.25.54:102][427]LogFbx: Warning: Triangulating static mesh pipe_sub.006
+[2020.04.18-04.25.54:145][427]LogFbx: Warning: Triangulating static mesh pipe_foot.009
+[2020.04.18-04.25.54:155][427]LogFbx: Warning: Triangulating static mesh pipe_main.004
+[2020.04.18-04.25.54:184][427]LogFbx: Warning: Triangulating static mesh pipe_foot.024
+[2020.04.18-04.25.54:194][427]LogFbx: Warning: Triangulating static mesh pipe_foot.028
+[2020.04.18-04.25.54:203][427]LogFbx: Warning: Triangulating static mesh pipe_sub.014
+[2020.04.18-04.25.54:246][427]LogFbx: Warning: Triangulating static mesh pipe_sub.015
+[2020.04.18-04.25.54:287][427]LogFbx: Warning: Triangulating static mesh pipe_foot.026
+[2020.04.18-04.25.54:298][427]LogFbx: Warning: Triangulating static mesh pipe_sub.016
+[2020.04.18-04.25.54:341][427]LogFbx: Warning: Triangulating static mesh pipe_foot.030
+[2020.04.18-04.25.54:350][427]LogFbx: Warning: Triangulating static mesh pipe_sub.017
+[2020.04.18-04.25.54:392][427]LogFbx: Warning: Triangulating static mesh pipe_foot.029
+[2020.04.18-04.25.54:665][427]LogStaticMesh: Building static mesh metro_stair...
+[2020.04.18-04.25.57:601][427]LogStaticMesh: Built static mesh [2.94s] /Game/FBX/metro_stair/metro_stair.metro_stair
+[2020.04.18-04.25.57:738][427]LogStaticMesh: Warning: metro_stair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.18-04.25.57:738][427]LogStaticMesh: Warning: metro_stair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.18-04.25.57:885][427]LogEditorFactories: -- imported successfully
+[2020.04.18-04.25.57:895][427]FBXImport: Warning: metro_stair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.18-04.25.57:895][427]FBXImport: Warning: metro_stair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.18-04.26.29:800][200]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.26.32:093][475]LogEditorFactories: Performing atomic reimport of [D:/Blender_doc/metro_stair.fbx]
+[2020.04.18-04.26.32:096][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.26.32:118][475]LogFbx: Loading FBX Scene from D:/Blender_doc/metro_stair.fbx
+[2020.04.18-04.26.32:189][475]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.18-04.26.32:239][475]LogFbx: Warning: Triangulating static mesh Plane
+[2020.04.18-04.26.32:241][475]LogFbx: Warning: Triangulating static mesh Plane.001
+[2020.04.18-04.26.32:243][475]LogFbx: Warning: Triangulating static mesh Plane.002
+[2020.04.18-04.26.32:252][475]LogFbx: Warning: Triangulating static mesh pipe_main
+[2020.04.18-04.26.32:278][475]LogFbx: Warning: Triangulating static mesh pipe_foot
+[2020.04.18-04.26.32:287][475]LogFbx: Warning: Triangulating static mesh pipe_sub
+[2020.04.18-04.26.32:330][475]LogFbx: Warning: Triangulating static mesh pipe_foot.001
+[2020.04.18-04.26.32:339][475]LogFbx: Warning: Triangulating static mesh pipe_sub.001
+[2020.04.18-04.26.32:382][475]LogFbx: Warning: Triangulating static mesh pipe_foot.002
+[2020.04.18-04.26.32:391][475]LogFbx: Warning: Triangulating static mesh pipe_sub.005
+[2020.04.18-04.26.32:435][475]LogFbx: Warning: Triangulating static mesh pipe_foot.013
+[2020.04.18-04.26.32:445][475]LogFbx: Warning: Triangulating static mesh pipe_sub.004
+[2020.04.18-04.26.32:489][475]LogFbx: Warning: Triangulating static mesh pipe_foot.014
+[2020.04.18-04.26.32:498][475]LogFbx: Warning: Triangulating static mesh pipe_main.001
+[2020.04.18-04.26.32:524][475]LogFbx: Warning: Triangulating static mesh pipe_foot.005
+[2020.04.18-04.26.32:533][475]LogFbx: Warning: Triangulating static mesh pipe_sub.003
+[2020.04.18-04.26.32:577][475]LogFbx: Warning: Triangulating static mesh pipe_foot.004
+[2020.04.18-04.26.32:587][475]LogFbx: Warning: Triangulating static mesh pipe_main.003
+[2020.04.18-04.26.32:615][475]LogFbx: Warning: Triangulating static mesh pipe_foot.017
+[2020.04.18-04.26.32:624][475]LogFbx: Warning: Triangulating static mesh pipe_sub.010
+[2020.04.18-04.26.32:668][475]LogFbx: Warning: Triangulating static mesh pipe_foot.018
+[2020.04.18-04.26.32:677][475]LogFbx: Warning: Triangulating static mesh pipe_sub.011
+[2020.04.18-04.26.32:721][475]LogFbx: Warning: Triangulating static mesh pipe_foot.019
+[2020.04.18-04.26.32:730][475]LogFbx: Warning: Triangulating static mesh pipe_sub.012
+[2020.04.18-04.26.32:773][475]LogFbx: Warning: Triangulating static mesh pipe_foot.022
+[2020.04.18-04.26.32:783][475]LogFbx: Warning: Triangulating static mesh pipe_sub.013
+[2020.04.18-04.26.32:825][475]LogFbx: Warning: Triangulating static mesh pipe_foot.023
+[2020.04.18-04.26.32:834][475]LogFbx: Warning: Triangulating static mesh pipe_main.005
+[2020.04.18-04.26.32:858][475]LogFbx: Warning: Triangulating static mesh pipe_foot.003
+[2020.04.18-04.26.32:867][475]LogFbx: Warning: Triangulating static mesh pipe_sub.002
+[2020.04.18-04.26.32:909][475]LogFbx: Warning: Triangulating static mesh pipe_foot.031
+[2020.04.18-04.26.32:919][475]LogFbx: Warning: Triangulating static mesh pipe_main.006
+[2020.04.18-04.26.32:942][475]LogFbx: Warning: Triangulating static mesh pipe_foot.032
+[2020.04.18-04.26.32:952][475]LogFbx: Warning: Triangulating static mesh pipe_sub.018
+[2020.04.18-04.26.32:995][475]LogFbx: Warning: Triangulating static mesh pipe_foot.033
+[2020.04.18-04.26.33:004][475]LogFbx: Warning: Triangulating static mesh pipe_main.007
+[2020.04.18-04.26.33:029][475]LogFbx: Warning: Triangulating static mesh pipe_foot.034
+[2020.04.18-04.26.33:038][475]LogFbx: Warning: Triangulating static mesh pipe_sub.019
+[2020.04.18-04.26.33:082][475]LogFbx: Warning: Triangulating static mesh pipe_foot.035
+[2020.04.18-04.26.33:091][475]LogFbx: Warning: Triangulating static mesh pipe_main.008
+[2020.04.18-04.26.33:130][475]LogFbx: Warning: Triangulating static mesh pipe_foot.036
+[2020.04.18-04.26.33:140][475]LogFbx: Warning: Triangulating static mesh pipe_sub.020
+[2020.04.18-04.26.33:184][475]LogFbx: Warning: Triangulating static mesh pipe_foot.037
+[2020.04.18-04.26.33:194][475]LogFbx: Warning: Triangulating static mesh pipe_sub.021
+[2020.04.18-04.26.33:238][475]LogFbx: Warning: Triangulating static mesh pipe_foot.038
+[2020.04.18-04.26.33:247][475]LogFbx: Warning: Triangulating static mesh pipe_sub.022
+[2020.04.18-04.26.33:292][475]LogFbx: Warning: Triangulating static mesh pipe_foot.039
+[2020.04.18-04.26.33:301][475]LogFbx: Warning: Triangulating static mesh pipe_sub.023
+[2020.04.18-04.26.33:345][475]LogFbx: Warning: Triangulating static mesh pipe_foot.040
+[2020.04.18-04.26.33:354][475]LogFbx: Warning: Triangulating static mesh pipe_sub.024
+[2020.04.18-04.26.33:396][475]LogFbx: Warning: Triangulating static mesh pipe_foot.041
+[2020.04.18-04.26.33:406][475]LogFbx: Warning: Triangulating static mesh pipe_sub.025
+[2020.04.18-04.26.33:449][475]LogFbx: Warning: Triangulating static mesh pipe_foot.042
+[2020.04.18-04.26.33:459][475]LogFbx: Warning: Triangulating static mesh pipe_main.009
+[2020.04.18-04.26.33:498][475]LogFbx: Warning: Triangulating static mesh pipe_foot.043
+[2020.04.18-04.26.33:508][475]LogFbx: Warning: Triangulating static mesh pipe_sub.026
+[2020.04.18-04.26.33:551][475]LogFbx: Warning: Triangulating static mesh pipe_foot.044
+[2020.04.18-04.26.33:560][475]LogFbx: Warning: Triangulating static mesh pipe_sub.027
+[2020.04.18-04.26.33:606][475]LogFbx: Warning: Triangulating static mesh pipe_foot.045
+[2020.04.18-04.26.33:615][475]LogFbx: Warning: Triangulating static mesh pipe_sub.028
+[2020.04.18-04.26.33:658][475]LogFbx: Warning: Triangulating static mesh pipe_foot.046
+[2020.04.18-04.26.33:668][475]LogFbx: Warning: Triangulating static mesh pipe_sub.029
+[2020.04.18-04.26.33:710][475]LogFbx: Warning: Triangulating static mesh pipe_foot.047
+[2020.04.18-04.26.33:720][475]LogFbx: Warning: Triangulating static mesh pipe_sub.030
+[2020.04.18-04.26.33:762][475]LogFbx: Warning: Triangulating static mesh pipe_foot.048
+[2020.04.18-04.26.33:772][475]LogFbx: Warning: Triangulating static mesh pipe_sub.031
+[2020.04.18-04.26.33:817][475]LogFbx: Warning: Triangulating static mesh pipe_foot.049
+[2020.04.18-04.26.33:826][475]LogFbx: Warning: Triangulating static mesh pipe_main.010
+[2020.04.18-04.26.33:858][475]LogFbx: Warning: Triangulating static mesh pipe_foot.050
+[2020.04.18-04.26.33:868][475]LogFbx: Warning: Triangulating static mesh pipe_sub.032
+[2020.04.18-04.26.33:910][475]LogFbx: Warning: Triangulating static mesh pipe_foot.051
+[2020.04.18-04.26.33:919][475]LogFbx: Warning: Triangulating static mesh pipe_sub.033
+[2020.04.18-04.26.33:962][475]LogFbx: Warning: Triangulating static mesh pipe_foot.052
+[2020.04.18-04.26.33:971][475]LogFbx: Warning: Triangulating static mesh pipe_main.011
+[2020.04.18-04.26.34:002][475]LogFbx: Warning: Triangulating static mesh pipe_foot.053
+[2020.04.18-04.26.34:012][475]LogFbx: Warning: Triangulating static mesh pipe_sub.034
+[2020.04.18-04.26.34:054][475]LogFbx: Warning: Triangulating static mesh pipe_foot.054
+[2020.04.18-04.26.34:062][475]LogFbx: Warning: Triangulating static mesh pipe_sub.035
+[2020.04.18-04.26.34:105][475]LogFbx: Warning: Triangulating static mesh pipe_foot.055
+[2020.04.18-04.26.34:114][475]LogFbx: Warning: Triangulating static mesh Cube
+[2020.04.18-04.26.34:115][475]LogFbx: Warning: Triangulating static mesh water_pipe
+[2020.04.18-04.26.34:142][475]LogFbx: Warning: Triangulating static mesh Cylinder
+[2020.04.18-04.26.34:146][475]LogFbx: Warning: Triangulating static mesh Cylinder.001
+[2020.04.18-04.26.34:147][475]LogFbx: Warning: Triangulating static mesh Cylinder.002
+[2020.04.18-04.26.34:147][475]LogFbx: Warning: Triangulating static mesh Cylinder.003
+[2020.04.18-04.26.34:151][475]LogFbx: Warning: Triangulating static mesh Cylinder.004
+[2020.04.18-04.26.34:152][475]LogFbx: Warning: Triangulating static mesh Cylinder.005
+[2020.04.18-04.26.34:153][475]LogFbx: Warning: Triangulating static mesh Cylinder.006
+[2020.04.18-04.26.34:157][475]LogFbx: Warning: Triangulating static mesh Cylinder.007
+[2020.04.18-04.26.34:158][475]LogFbx: Warning: Triangulating static mesh Cylinder.008
+[2020.04.18-04.26.34:158][475]LogFbx: Warning: Triangulating static mesh Cylinder.009
+[2020.04.18-04.26.34:162][475]LogFbx: Warning: Triangulating static mesh Cylinder.010
+[2020.04.18-04.26.34:163][475]LogFbx: Warning: Triangulating static mesh Cylinder.011
+[2020.04.18-04.26.34:164][475]LogFbx: Warning: Triangulating static mesh Cube.001
+[2020.04.18-04.26.34:168][475]LogFbx: Warning: Triangulating static mesh Cube.002
+[2020.04.18-04.26.34:193][475]LogFbx: Warning: Triangulating static mesh Cube.004
+[2020.04.18-04.26.34:197][475]LogFbx: Warning: Triangulating static mesh Cube.005
+[2020.04.18-04.26.34:220][475]LogFbx: Warning: Triangulating static mesh Cube.006
+[2020.04.18-04.26.34:221][475]LogFbx: Warning: Triangulating static mesh Cube.007
+[2020.04.18-04.26.34:224][475]LogFbx: Warning: Triangulating static mesh Cube.008
+[2020.04.18-04.26.34:224][475]LogFbx: Warning: Triangulating static mesh Cube.009
+[2020.04.18-04.26.34:227][475]LogFbx: Warning: Triangulating static mesh Cube.010
+[2020.04.18-04.26.34:227][475]LogFbx: Warning: Triangulating static mesh Cube.011
+[2020.04.18-04.26.34:230][475]LogFbx: Warning: Triangulating static mesh Cube.012
+[2020.04.18-04.26.34:231][475]LogFbx: Warning: Triangulating static mesh Cube.013
+[2020.04.18-04.26.34:233][475]LogFbx: Warning: Triangulating static mesh Cube.014
+[2020.04.18-04.26.34:234][475]LogFbx: Warning: Triangulating static mesh Cube.015
+[2020.04.18-04.26.34:237][475]LogFbx: Warning: Triangulating static mesh pipe_main.002
+[2020.04.18-04.26.34:263][475]LogFbx: Warning: Triangulating static mesh pipe_foot.016
+[2020.04.18-04.26.34:272][475]LogFbx: Warning: Triangulating static mesh pipe_foot.010
+[2020.04.18-04.26.34:281][475]LogFbx: Warning: Triangulating static mesh pipe_sub.009
+[2020.04.18-04.26.34:325][475]LogFbx: Warning: Triangulating static mesh pipe_sub.008
+[2020.04.18-04.26.34:367][475]LogFbx: Warning: Triangulating static mesh pipe_foot.012
+[2020.04.18-04.26.34:376][475]LogFbx: Warning: Triangulating static mesh pipe_sub.007
+[2020.04.18-04.26.34:419][475]LogFbx: Warning: Triangulating static mesh pipe_foot.008
+[2020.04.18-04.26.34:428][475]LogFbx: Warning: Triangulating static mesh pipe_sub.006
+[2020.04.18-04.26.34:470][475]LogFbx: Warning: Triangulating static mesh pipe_foot.009
+[2020.04.18-04.26.34:479][475]LogFbx: Warning: Triangulating static mesh pipe_main.004
+[2020.04.18-04.26.34:508][475]LogFbx: Warning: Triangulating static mesh pipe_foot.024
+[2020.04.18-04.26.34:519][475]LogFbx: Warning: Triangulating static mesh pipe_foot.028
+[2020.04.18-04.26.34:529][475]LogFbx: Warning: Triangulating static mesh pipe_sub.014
+[2020.04.18-04.26.34:575][475]LogFbx: Warning: Triangulating static mesh pipe_sub.015
+[2020.04.18-04.26.34:623][475]LogFbx: Warning: Triangulating static mesh pipe_foot.026
+[2020.04.18-04.26.34:631][475]LogFbx: Warning: Triangulating static mesh pipe_sub.016
+[2020.04.18-04.26.34:676][475]LogFbx: Warning: Triangulating static mesh pipe_foot.030
+[2020.04.18-04.26.34:685][475]LogFbx: Warning: Triangulating static mesh pipe_sub.017
+[2020.04.18-04.26.34:729][475]LogFbx: Warning: Triangulating static mesh pipe_foot.029
+[2020.04.18-04.26.34:800][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.26.34:980][475]LogStaticMesh: Building static mesh metro_stair...
+[2020.04.18-04.26.37:902][475]LogStaticMesh: Built static mesh [2.92s] /Game/FBX/metro_stair/metro_stair.metro_stair
+[2020.04.18-04.26.38:039][475]LogStaticMesh: Warning: metro_stair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.18-04.26.38:039][475]LogStaticMesh: Warning: metro_stair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.18-04.26.38:185][475]LogEditorFactories: -- imported successfully
+[2020.04.18-04.26.38:195][475]FBXImport: Warning: metro_stair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.18-04.26.38:195][475]FBXImport: Warning: metro_stair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.18-04.26.57:270][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.18-04.27.01:790][444]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.18-04.27.06:155][711]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Blender_doc\metro_stair.fbx)
+[2020.04.18-04.27.06:171][711]LogFbx: Loading FBX Scene from D:\Blender_doc\metro_stair.fbx
+[2020.04.18-04.27.06:242][711]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.18-04.28.23:487][711]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.18-04.28.38:092][366]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2020.04.18-04.28.38:094][366]LogSlate: Took 0.001720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.18-04.28.39:643][546]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.031815 seconds
+[2020.04.18-04.28.39:643][546]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.04.18-04.28.39:643][546]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.04.18-04.28.40:249][546]LogSlate: Took 0.000454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2020.04.18-04.28.40:250][546]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2020.04.18-04.28.40:276][547]LogSlate: Took 0.000568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.18-04.28.40:279][547]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2020.04.18-04.28.40:280][547]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2020.04.18-04.28.40:280][547]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.18-04.28.40:283][547]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.18-04.28.40:284][547]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.18-04.28.41:434][684]LogSlate: Window 'エディタの環境設定' being destroyed
+[2020.04.18-04.28.41:438][684]LogSlate: Window 'エディタの環境設定' being destroyed
+[2020.04.18-04.28.48:319][917]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.18-04.28.48:319][917]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2020.04.18-04.28.48:332][917]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Blender_doc\metro_stair.fbx)
+[2020.04.18-04.28.48:349][917]LogFbx: Loading FBX Scene from D:\Blender_doc\metro_stair.fbx
+[2020.04.18-04.28.48:420][917]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.18-04.29.41:799][917]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2020.04.18-04.29.41:827][917]LogFbx: Warning: Triangulating static mesh Plane
+[2020.04.18-04.29.41:829][917]LogFbx: Warning: Triangulating static mesh Plane.001
+[2020.04.18-04.29.41:831][917]LogFbx: Warning: Triangulating static mesh Plane.002
+[2020.04.18-04.29.41:841][917]LogFbx: Warning: Triangulating static mesh pipe_main
+[2020.04.18-04.29.41:869][917]LogFbx: Warning: Triangulating static mesh pipe_foot
+[2020.04.18-04.29.41:879][917]LogFbx: Warning: Triangulating static mesh pipe_sub
+[2020.04.18-04.29.41:924][917]LogFbx: Warning: Triangulating static mesh pipe_foot.001
+[2020.04.18-04.29.41:934][917]LogFbx: Warning: Triangulating static mesh pipe_sub.001
+[2020.04.18-04.29.41:979][917]LogFbx: Warning: Triangulating static mesh pipe_foot.002
+[2020.04.18-04.29.41:989][917]LogFbx: Warning: Triangulating static mesh pipe_sub.005
+[2020.04.18-04.29.42:033][917]LogFbx: Warning: Triangulating static mesh pipe_foot.013
+[2020.04.18-04.29.42:043][917]LogFbx: Warning: Triangulating static mesh pipe_sub.004
+[2020.04.18-04.29.42:088][917]LogFbx: Warning: Triangulating static mesh pipe_foot.014
+[2020.04.18-04.29.42:097][917]LogFbx: Warning: Triangulating static mesh pipe_main.001
+[2020.04.18-04.29.42:122][917]LogFbx: Warning: Triangulating static mesh pipe_foot.005
+[2020.04.18-04.29.42:133][917]LogFbx: Warning: Triangulating static mesh pipe_sub.003
+[2020.04.18-04.29.42:178][917]LogFbx: Warning: Triangulating static mesh pipe_foot.004
+[2020.04.18-04.29.42:187][917]LogFbx: Warning: Triangulating static mesh pipe_main.003
+[2020.04.18-04.29.42:216][917]LogFbx: Warning: Triangulating static mesh pipe_foot.017
+[2020.04.18-04.29.42:225][917]LogFbx: Warning: Triangulating static mesh pipe_sub.010
+[2020.04.18-04.29.42:270][917]LogFbx: Warning: Triangulating static mesh pipe_foot.018
+[2020.04.18-04.29.42:280][917]LogFbx: Warning: Triangulating static mesh pipe_sub.011
+[2020.04.18-04.29.42:324][917]LogFbx: Warning: Triangulating static mesh pipe_foot.019
+[2020.04.18-04.29.42:334][917]LogFbx: Warning: Triangulating static mesh pipe_sub.012
+[2020.04.18-04.29.42:379][917]LogFbx: Warning: Triangulating static mesh pipe_foot.022
+[2020.04.18-04.29.42:389][917]LogFbx: Warning: Triangulating static mesh pipe_sub.013
+[2020.04.18-04.29.42:433][917]LogFbx: Warning: Triangulating static mesh pipe_foot.023
+[2020.04.18-04.29.42:443][917]LogFbx: Warning: Triangulating static mesh pipe_main.005
+[2020.04.18-04.29.42:468][917]LogFbx: Warning: Triangulating static mesh pipe_foot.003
+[2020.04.18-04.29.42:478][917]LogFbx: Warning: Triangulating static mesh pipe_sub.002
+[2020.04.18-04.29.42:523][917]LogFbx: Warning: Triangulating static mesh pipe_foot.031
+[2020.04.18-04.29.42:533][917]LogFbx: Warning: Triangulating static mesh pipe_main.006
+[2020.04.18-04.29.42:558][917]LogFbx: Warning: Triangulating static mesh pipe_foot.032
+[2020.04.18-04.29.42:567][917]LogFbx: Warning: Triangulating static mesh pipe_sub.018
+[2020.04.18-04.29.42:613][917]LogFbx: Warning: Triangulating static mesh pipe_foot.033
+[2020.04.18-04.29.42:622][917]LogFbx: Warning: Triangulating static mesh pipe_main.007
+[2020.04.18-04.29.42:648][917]LogFbx: Warning: Triangulating static mesh pipe_foot.034
+[2020.04.18-04.29.42:658][917]LogFbx: Warning: Triangulating static mesh pipe_sub.019
+[2020.04.18-04.29.42:702][917]LogFbx: Warning: Triangulating static mesh pipe_foot.035
+[2020.04.18-04.29.42:711][917]LogFbx: Warning: Triangulating static mesh pipe_main.008
+[2020.04.18-04.29.42:752][917]LogFbx: Warning: Triangulating static mesh pipe_foot.036
+[2020.04.18-04.29.42:762][917]LogFbx: Warning: Triangulating static mesh pipe_sub.020
+[2020.04.18-04.29.42:807][917]LogFbx: Warning: Triangulating static mesh pipe_foot.037
+[2020.04.18-04.29.42:817][917]LogFbx: Warning: Triangulating static mesh pipe_sub.021
+[2020.04.18-04.29.42:862][917]LogFbx: Warning: Triangulating static mesh pipe_foot.038
+[2020.04.18-04.29.42:871][917]LogFbx: Warning: Triangulating static mesh pipe_sub.022
+[2020.04.18-04.29.42:916][917]LogFbx: Warning: Triangulating static mesh pipe_foot.039
+[2020.04.18-04.29.42:925][917]LogFbx: Warning: Triangulating static mesh pipe_sub.023
+[2020.04.18-04.29.42:969][917]LogFbx: Warning: Triangulating static mesh pipe_foot.040
+[2020.04.18-04.29.42:979][917]LogFbx: Warning: Triangulating static mesh pipe_sub.024
+[2020.04.18-04.29.43:023][917]LogFbx: Warning: Triangulating static mesh pipe_foot.041
+[2020.04.18-04.29.43:033][917]LogFbx: Warning: Triangulating static mesh pipe_sub.025
+[2020.04.18-04.29.43:078][917]LogFbx: Warning: Triangulating static mesh pipe_foot.042
+[2020.04.18-04.29.43:088][917]LogFbx: Warning: Triangulating static mesh pipe_main.009
+[2020.04.18-04.29.43:127][917]LogFbx: Warning: Triangulating static mesh pipe_foot.043
+[2020.04.18-04.29.43:137][917]LogFbx: Warning: Triangulating static mesh pipe_sub.026
+[2020.04.18-04.29.43:182][917]LogFbx: Warning: Triangulating static mesh pipe_foot.044
+[2020.04.18-04.29.43:191][917]LogFbx: Warning: Triangulating static mesh pipe_sub.027
+[2020.04.18-04.29.43:236][917]LogFbx: Warning: Triangulating static mesh pipe_foot.045
+[2020.04.18-04.29.43:245][917]LogFbx: Warning: Triangulating static mesh pipe_sub.028
+[2020.04.18-04.29.43:290][917]LogFbx: Warning: Triangulating static mesh pipe_foot.046
+[2020.04.18-04.29.43:299][917]LogFbx: Warning: Triangulating static mesh pipe_sub.029
+[2020.04.18-04.29.43:344][917]LogFbx: Warning: Triangulating static mesh pipe_foot.047
+[2020.04.18-04.29.43:353][917]LogFbx: Warning: Triangulating static mesh pipe_sub.030
+[2020.04.18-04.29.43:396][917]LogFbx: Warning: Triangulating static mesh pipe_foot.048
+[2020.04.18-04.29.43:406][917]LogFbx: Warning: Triangulating static mesh pipe_sub.031
+[2020.04.18-04.29.43:450][917]LogFbx: Warning: Triangulating static mesh pipe_foot.049
+[2020.04.18-04.29.43:459][917]LogFbx: Warning: Triangulating static mesh pipe_main.010
+[2020.04.18-04.29.43:491][917]LogFbx: Warning: Triangulating static mesh pipe_foot.050
+[2020.04.18-04.29.43:501][917]LogFbx: Warning: Triangulating static mesh pipe_sub.032
+[2020.04.18-04.29.43:545][917]LogFbx: Warning: Triangulating static mesh pipe_foot.051
+[2020.04.18-04.29.43:554][917]LogFbx: Warning: Triangulating static mesh pipe_sub.033
+[2020.04.18-04.29.43:600][917]LogFbx: Warning: Triangulating static mesh pipe_foot.052
+[2020.04.18-04.29.43:611][917]LogFbx: Warning: Triangulating static mesh pipe_main.011
+[2020.04.18-04.29.43:644][917]LogFbx: Warning: Triangulating static mesh pipe_foot.053
+[2020.04.18-04.29.43:655][917]LogFbx: Warning: Triangulating static mesh pipe_sub.034
+[2020.04.18-04.29.43:699][917]LogFbx: Warning: Triangulating static mesh pipe_foot.054
+[2020.04.18-04.29.43:709][917]LogFbx: Warning: Triangulating static mesh pipe_sub.035
+[2020.04.18-04.29.43:753][917]LogFbx: Warning: Triangulating static mesh pipe_foot.055
+[2020.04.18-04.29.43:765][917]LogFbx: Warning: Triangulating static mesh Cube
+[2020.04.18-04.29.43:767][917]LogFbx: Warning: Triangulating static mesh water_pipe
+[2020.04.18-04.29.43:794][917]LogFbx: Warning: Triangulating static mesh Cylinder
+[2020.04.18-04.29.43:798][917]LogFbx: Warning: Triangulating static mesh Cylinder.001
+[2020.04.18-04.29.43:799][917]LogFbx: Warning: Triangulating static mesh Cylinder.002
+[2020.04.18-04.29.43:800][917]LogFbx: Warning: Triangulating static mesh Cylinder.003
+[2020.04.18-04.29.43:804][917]LogFbx: Warning: Triangulating static mesh Cylinder.004
+[2020.04.18-04.29.43:805][917]LogFbx: Warning: Triangulating static mesh Cylinder.005
+[2020.04.18-04.29.43:806][917]LogFbx: Warning: Triangulating static mesh Cylinder.006
+[2020.04.18-04.29.43:810][917]LogFbx: Warning: Triangulating static mesh Cylinder.007
+[2020.04.18-04.29.43:811][917]LogFbx: Warning: Triangulating static mesh Cylinder.008
+[2020.04.18-04.29.43:812][917]LogFbx: Warning: Triangulating static mesh Cylinder.009
+[2020.04.18-04.29.43:816][917]LogFbx: Warning: Triangulating static mesh Cylinder.010
+[2020.04.18-04.29.43:817][917]LogFbx: Warning: Triangulating static mesh Cylinder.011
+[2020.04.18-04.29.43:817][917]LogFbx: Warning: Triangulating static mesh Cube.001
+[2020.04.18-04.29.43:822][917]LogFbx: Warning: Triangulating static mesh Cube.002
+[2020.04.18-04.29.43:848][917]LogFbx: Warning: Triangulating static mesh Cube.004
+[2020.04.18-04.29.43:852][917]LogFbx: Warning: Triangulating static mesh Cube.005
+[2020.04.18-04.29.43:878][917]LogFbx: Warning: Triangulating static mesh Cube.006
+[2020.04.18-04.29.43:882][917]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2020.04.18-04.29.43:894][917]LogFbx: Warning: Triangulating static mesh Cube.007
+[2020.04.18-04.29.43:898][917]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.04.18-04.29.43:898][917]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.04.18-04.29.43:898][917]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.18-04.29.43:898][917]LogFbx: Warning: Triangulating static mesh Cube.008
+[2020.04.18-04.29.43:898][917]LogFbx: Warning: Triangulating static mesh Cube.009
+[2020.04.18-04.29.43:901][917]LogFbx: Warning: Triangulating static mesh Cube.010
+[2020.04.18-04.29.43:902][917]LogFbx: Warning: Triangulating static mesh Cube.011
+[2020.04.18-04.29.43:905][917]LogFbx: Warning: Triangulating static mesh Cube.012
+[2020.04.18-04.29.43:905][917]LogFbx: Warning: Triangulating static mesh Cube.013
+[2020.04.18-04.29.43:909][917]LogFbx: Warning: Triangulating static mesh Cube.014
+[2020.04.18-04.29.43:910][917]LogFbx: Warning: Triangulating static mesh Cube.015
+[2020.04.18-04.29.43:915][917]LogFbx: Warning: Triangulating static mesh pipe_main.002
+[2020.04.18-04.29.43:952][917]LogFbx: Warning: Triangulating static mesh pipe_foot.016
+[2020.04.18-04.29.43:962][917]LogFbx: Warning: Triangulating static mesh pipe_foot.010
+[2020.04.18-04.29.43:973][917]LogFbx: Warning: Triangulating static mesh pipe_sub.009
+[2020.04.18-04.29.44:028][917]LogFbx: Warning: Triangulating static mesh pipe_sub.008
+[2020.04.18-04.29.44:077][917]LogFbx: Warning: Triangulating static mesh pipe_foot.012
+[2020.04.18-04.29.44:091][917]LogFbx: Warning: Triangulating static mesh pipe_sub.007
+[2020.04.18-04.29.44:152][917]LogFbx: Warning: Triangulating static mesh pipe_foot.008
+[2020.04.18-04.29.44:167][917]LogFbx: Warning: Triangulating static mesh pipe_sub.006
+[2020.04.18-04.29.44:227][917]LogFbx: Warning: Triangulating static mesh pipe_foot.009
+[2020.04.18-04.29.44:240][917]LogFbx: Warning: Triangulating static mesh pipe_main.004
+[2020.04.18-04.29.44:280][917]LogFbx: Warning: Triangulating static mesh pipe_foot.024
+[2020.04.18-04.29.44:296][917]LogFbx: Warning: Triangulating static mesh pipe_foot.028
+[2020.04.18-04.29.44:308][917]LogFbx: Warning: Triangulating static mesh pipe_sub.014
+[2020.04.18-04.29.44:367][917]LogFbx: Warning: Triangulating static mesh pipe_sub.015
+[2020.04.18-04.29.44:423][917]LogFbx: Warning: Triangulating static mesh pipe_foot.026
+[2020.04.18-04.29.44:436][917]LogFbx: Warning: Triangulating static mesh pipe_sub.016
+[2020.04.18-04.29.44:491][917]LogFbx: Warning: Triangulating static mesh pipe_foot.030
+[2020.04.18-04.29.44:503][917]LogFbx: Warning: Triangulating static mesh pipe_sub.017
+[2020.04.18-04.29.44:556][917]LogFbx: Warning: Triangulating static mesh pipe_foot.029
+[2020.04.18-04.29.44:859][917]LogStaticMesh: スタティックメッシュ metro_stair をビルド中...
+[2020.04.18-04.29.47:420][917]LogStaticMesh: Built static mesh [2.56s] /Game/FBX/metro_stair/metro_stair.metro_stair
+[2020.04.18-04.29.47:566][917]LogStaticMesh: Warning: metro_stair has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.04.18-04.29.47:566][917]LogStaticMesh: Warning: metro_stair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.18-04.29.47:719][917]FBXImport: Warning: metro_stair has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2020.04.18-04.29.47:719][917]FBXImport: Warning: metro_stair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.18-04.29.50:505][229]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/FBX/metro_stair/metro_stair.metro_stair
+[2020.04.18-04.29.50:717][229]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.18-04.29.50:945][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Autosaves/Temp/Untitled_1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.18-04.29.50:950][248]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Untitled_1_Auto4E2BA194E4C7E6ADD2B20EABA0EFD060D.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Autosaves/Temp/Untitled_1_Auto4.umap'
+[2020.04.18-04.29.50:953][248]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.037
+[2020.04.18-04.29.50:953][248]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.037
+[2020.04.18-04.29.50:954][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/metro_stair/metro_stair] ([1] browsable assets)...
+[2020.04.18-04.29.50:965][248]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/metro_stair/metro_stair.metro_stair]
+[2020.04.18-04.29.50:965][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/metro_stair/metro_stair]
+[2020.04.18-04.29.50:977][248]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/metro_stair_Auto400FC806D47E8E4BEB398E3991ED578BD.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Autosaves/Game/FBX/metro_stair/metro_stair_Auto4.uasset'
+[2020.04.18-04.29.50:979][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/metro_stair/Material_001] ([1] browsable assets)...
+[2020.04.18-04.29.50:990][248]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FBX/metro_stair/Material_001.Material_001]
+[2020.04.18-04.29.50:990][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/metro_stair/Material_001]
+[2020.04.18-04.29.50:999][248]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Material_001_Auto496F5BE694DB42407D86BC99BA5CB0B20.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Autosaves/Game/FBX/metro_stair/Material_001_Auto4.uasset'
+[2020.04.18-04.29.51:001][248]LogFileHelpers: Auto-saving content packages took 0.047
+[2020.04.18-04.30.02:648][645]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (14.759 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.18-04.30.25:047][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.18-04.30.37:117][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.30.37:298][734]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.30.37:678][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.30.38:642][894]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.30.40:088][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.30.41:027][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.30.41:468][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.31.56:847][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.18-04.32.35:104][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.32.36:245][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-04.32.44:186][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.18-04.35.47:387][739]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-06.55.45:412][492]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.18-06.55.48:760][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/metro_stair/metro_stair" FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Content/FBX/metro_stair/metro_stair.uasset" SILENT=true
+[2020.04.18-06.55.48:769][615]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/metro_stair007DDE1A4D403012F1468EA7CA6DC753.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Content/FBX/metro_stair/metro_stair.uasset'
+[2020.04.18-06.56.04:152][620]LogSlate: Window 'コンテンツを保存' being destroyed
+[2020.04.18-06.56.04:170][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/metro_stair/Material_001" FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Content/FBX/metro_stair/Material_001.uasset" SILENT=true
+[2020.04.18-06.56.04:174][620]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Saved/Material_0010F467D6647ADD43A7BD185A7025EC0DE.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/MetroStair/Content/FBX/metro_stair/Material_001.uasset'
+[2020.04.18-06.56.06:991][620]LogSlate: Window '名前を付けてレベルを保存する' being destroyed
+[2020.04.18-06.56.11:622][ 38]LogSlate: Window 'コンテンツを保存' being destroyed
+[2020.04.18-06.56.11:662][ 38]LogSlate: Window 'MetroStair - Unreal Editor' being destroyed
+[2020.04.18-06.56.11:926][ 39]Cmd: QUIT_EDITOR
+[2020.04.18-06.56.11:943][ 39]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Google 日本語入力).
+[2020.04.18-06.56.11:957][ 39]LogExit: Preparing to exit.
+[2020.04.18-06.56.12:075][ 39]LogExit: Editor shut down
+[2020.04.18-06.56.12:077][ 39]LogExit: Transaction tracking system shut down
+[2020.04.18-06.56.12:409][ 39]LogExit: Object subsystem successfully closed.
+[2020.04.18-06.56.12:435][ 39]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.18-06.56.12:443][ 39]LogD3D11RHI: Shutdown
+[2020.04.18-06.56.12:443][ 39]LogD3D11RHI: CleanupD3DDevice
+[2020.04.18-06.56.12:450][ 39]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.18-06.56.12:461][ 39]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2020.04.18-06.56.12:461][ 39]LogModuleManager: Shutting down and abandoning module MeshBuilder (630)
+[2020.04.18-06.56.12:461][ 39]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (628)
+[2020.04.18-06.56.12:461][ 39]LogModuleManager: Shutting down and abandoning module NewLevelDialog (626)
+[2020.04.18-06.56.12:462][ 39]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2020.04.18-06.56.12:462][ 39]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2020.04.18-06.56.12:462][ 39]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (620)
+[2020.04.18-06.56.12:462][ 39]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2020.04.18-06.56.12:464][ 39]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2020.04.18-06.56.12:465][ 39]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2020.04.18-06.56.12:466][ 39]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2020.04.18-06.56.12:466][ 39]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2020.04.18-06.56.12:466][ 39]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2020.04.18-06.56.12:466][ 39]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2020.04.18-06.56.12:466][ 39]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2020.04.18-06.56.12:466][ 39]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2020.04.18-06.56.12:466][ 39]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2020.04.18-06.56.14:285][ 39]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2020.04.18-06.56.14:286][ 39]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2020.04.18-06.56.14:287][ 39]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2020.04.18-06.56.14:287][ 39]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2020.04.18-06.56.14:287][ 39]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2020.04.18-06.56.14:342][ 39]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2020.04.18-06.56.14:342][ 39]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2020.04.18-06.56.14:342][ 39]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2020.04.18-06.56.14:342][ 39]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2020.04.18-06.56.14:342][ 39]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2020.04.18-06.56.14:342][ 39]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2020.04.18-06.56.14:342][ 39]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2020.04.18-06.56.14:342][ 39]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2020.04.18-06.56.14:342][ 39]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2020.04.18-06.56.14:342][ 39]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2020.04.18-06.56.14:343][ 39]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2020.04.18-06.56.14:347][ 39]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.04.18-06.56.14:561][ 39]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2020.04.18-06.56.14:562][ 39]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2020.04.18-06.56.14:565][ 39]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.04.18-06.56.14:566][ 39]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2020.04.18-06.56.14:567][ 39]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2020.04.18-06.56.14:567][ 39]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2020.04.18-06.56.14:567][ 39]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2020.04.18-06.56.14:567][ 39]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2020.04.18-06.56.14:567][ 39]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.04.18-06.56.14:567][ 39]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.04.18-06.56.14:567][ 39]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.04.18-06.56.14:668][ 39]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.04.18-06.56.14:769][ 39]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.04.18-06.56.14:769][ 39]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.04.18-06.56.14:769][ 39]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.04.18-06.56.14:769][ 39]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.04.18-06.56.14:769][ 39]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.04.18-06.56.14:769][ 39]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.04.18-06.56.14:769][ 39]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.04.18-06.56.14:770][ 39]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.04.18-06.56.14:770][ 39]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.04.18-06.56.14:771][ 39]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.04.18-06.56.14:771][ 39]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.04.18-06.56.14:771][ 39]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.04.18-06.56.14:773][ 39]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.04.18-06.56.14:773][ 39]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.04.18-06.56.14:773][ 39]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.04.18-06.56.14:773][ 39]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.04.18-06.56.14:773][ 39]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.04.18-06.56.14:773][ 39]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.04.18-06.56.14:773][ 39]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.04.18-06.56.14:775][ 39]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.04.18-06.56.14:781][ 39]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.04.18-06.56.14:781][ 39]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.04.18-06.56.14:781][ 39]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.04.18-06.56.14:782][ 39]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.04.18-06.56.14:785][ 39]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.04.18-06.56.14:786][ 39]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.04.18-06.56.14:833][ 39]LogDerivedDataCache: Shutdown
+[2020.04.18-06.56.14:833][ 39]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.04.18-06.56.14:834][ 39]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.04.18-06.56.14:842][ 39]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.04.18-06.56.14:843][ 39]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.04.18-06.56.14:843][ 39]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.04.18-06.56.14:843][ 39]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.04.18-06.56.14:843][ 39]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.04.18-06.56.14:846][ 39]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.04.18-06.56.14:846][ 39]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.04.18-06.56.14:849][ 39]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.04.18-06.56.14:849][ 39]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.04.18-06.56.14:878][ 39]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.04.18-06.56.14:878][ 39]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.04.18-06.56.14:878][ 39]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.04.18-06.56.14:878][ 39]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.04.18-06.56.14:878][ 39]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.04.18-06.56.14:878][ 39]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.04.18-06.56.14:878][ 39]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.04.18-06.56.14:878][ 39]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.04.18-06.56.14:878][ 39]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.04.18-06.56.14:878][ 39]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.04.18-06.56.14:878][ 39]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.04.18-06.56.14:878][ 39]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.04.18-06.56.14:878][ 39]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.04.18-06.56.14:878][ 39]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.18-06.56.14:878][ 39]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.04.18-06.56.14:879][ 39]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.04.18-06.56.14:879][ 39]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.04.18-06.56.14:879][ 39]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.04.18-06.56.14:879][ 39]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.04.18-06.56.14:880][ 39]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.04.18-06.56.14:880][ 39]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.04.18-06.56.14:894][ 39]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.04.18-06.56.14:894][ 39]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.18-06.56.14:894][ 39]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B48D66724-40F2-5B0A-4EE5-9BBDE25FA0DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=25badab649f8b76305744cbcb3c9bb44%7Cc705ba0724fe476f86f342d151cefd0c%7C4e08ef63-f22a-4199-89e4-0ddfddac7121&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.18-06.56.14:898][ 39]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.04.18-06.56.14:900][ 39]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.04.18-06.56.14:900][ 39]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.04.18-06.56.14:900][ 39]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.04.18-06.56.14:900][ 39]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.04.18-06.56.14:900][ 39]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.04.18-06.56.14:900][ 39]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.04.18-06.56.14:900][ 39]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.04.18-06.56.14:900][ 39]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.18-06.56.14:901][ 39]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.04.18-06.56.14:901][ 39]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.04.18-06.56.14:901][ 39]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.04.18-06.56.14:902][ 39]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.04.18-06.56.14:902][ 39]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.04.18-06.56.14:902][ 39]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.04.18-06.56.14:902][ 39]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.04.18-06.56.14:902][ 39]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.04.18-06.56.14:902][ 39]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.04.18-06.56.14:903][ 39]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.04.18-06.56.14:903][ 39]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.04.18-06.56.14:903][ 39]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.04.18-06.56.14:903][ 39]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.04.18-06.56.14:903][ 39]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.04.18-06.56.14:903][ 39]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.04.18-06.56.14:903][ 39]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.04.18-06.56.14:903][ 39]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.04.18-06.56.14:903][ 39]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.04.18-06.56.14:903][ 39]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.04.18-06.56.14:903][ 39]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.04.18-06.56.14:911][ 39]LogExit: Exiting.
+[2020.04.18-06.56.14:928][ 39]Log file closed, 04/18/20 15:56:14
