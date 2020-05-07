@@ -1,0 +1,993 @@
+﻿Log file open, 05/01/20 11:28:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VehicleTutorial
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.271855
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.069s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=aki0018 -epicuserid=c705ba0724fe476f86f342d151cefd0c -epiclocale=ja
+LogInit: Base Directory: D:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Engine.ini]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Engine.ini]
+[2020.05.01-02.28.05:116][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Engine.ini]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.01-02.28.05:116][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Engine.ini]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.01-02.28.05:117][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Engine.ini]
+[2020.05.01-02.28.05:117][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Engine.ini]
+[2020.05.01-02.28.05:119][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Scalability.ini]
+[2020.05.01-02.28.05:119][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Scalability.ini]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Scalability.ini]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Scalability.ini]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Scalability.ini]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Scalability.ini]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Scalability.ini]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.01-02.28.05:120][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.01-02.28.05:120][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.01-02.28.05:120][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.01-02.28.05:127][  0]LogHAL: Display: Platform has ~ 16 GB [17128947712 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.01-02.28.05:127][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.05.01-02.28.05:127][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.01-02.28.05:127][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Scalability.ini]
+[2020.05.01-02.28.05:127][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.01-02.28.05:127][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Scalability.ini]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Scalability.ini]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Scalability.ini]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Scalability.ini]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Scalability.ini]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.01-02.28.05:128][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.01-02.28.05:129][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.01-02.28.05:129][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Scalability.ini]
+[2020.05.01-02.28.05:129][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.01-02.28.05:129][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.01-02.28.05:129][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.01-02.28.05:129][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.01-02.28.05:129][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Config/Windows/Engine.ini]
+[2020.05.01-02.28.05:129][  0]LogInit: Computer: AKI
+[2020.05.01-02.28.05:129][  0]LogInit: User: akito
+[2020.05.01-02.28.05:129][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.01-02.28.05:129][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.01-02.28.05:129][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.05.01-02.28.05:129][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.01-02.28.05:129][  0]LogMemory: Process Physical Memory: 103.22 MB used, 103.22 MB peak
+[2020.05.01-02.28.05:129][  0]LogMemory: Process Virtual Memory: 91.46 MB used, 91.46 MB peak
+[2020.05.01-02.28.05:129][  0]LogMemory: Physical Memory: 6785.95 MB used,  9549.49 MB free, 16335.44 MB total
+[2020.05.01-02.28.05:129][  0]LogMemory: Virtual Memory: 4621.66 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2020.05.01-02.28.05:151][  0]LogInit: Overriding language with editor language configuration option (ja).
+[2020.05.01-02.28.05:151][  0]LogInit: Overriding locale with editor locale configuration option (ja).
+[2020.05.01-02.28.05:505][  0]LogStreaming: Display: Took  0.353s to InitEngineTextLocalization.
+[2020.05.01-02.28.05:505][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.01-02.28.05:560][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.01-02.28.05:560][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.01-02.28.05:913][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.01-02.28.05:913][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.01-02.28.05:967][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.05.01-02.28.05:967][  0]LogD3D11RHI:       6052/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.01-02.28.05:969][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.01-02.28.05:969][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.01-02.28.05:969][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.01-02.28.05:976][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.01-02.28.05:977][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.01-02.28.05:977][  0]LogWindows: EnumDisplayDevices:
+[2020.05.01-02.28.05:977][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.05.01-02.28.05:978][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.01-02.28.05:978][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.01-02.28.05:978][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.01-02.28.05:978][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.01-02.28.05:978][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.05.01-02.28.05:978][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.05.01-02.28.05:978][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.05.01-02.28.05:978][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.05.01-02.28.06:018][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.01-02.28.06:037][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.01-02.28.06:361][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.05.01-02.28.06:373][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.05.01-02.28.06:385][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.05.01-02.28.06:398][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.05.01-02.28.06:410][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.05.01-02.28.06:423][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.05.01-02.28.06:435][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.05.01-02.28.06:448][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.05.01-02.28.06:453][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.01-02.28.06:523][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.05.01-02.28.06:582][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.01-02.28.06:582][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.01-02.28.06:603][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.01-02.28.06:603][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.01-02.28.06:615][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.05.01-02.28.06:627][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.05.01-02.28.06:639][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.05.01-02.28.06:653][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.05.01-02.28.06:697][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.01-02.28.06:697][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.01-02.28.06:697][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.01-02.28.06:746][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Intermediate/Shaders/WorkingDirectory/10956/).
+[2020.05.01-02.28.06:746][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/slipk/AppData/Local/Temp/UnrealShaderWorkingDir/87C8588A476A7714EA302990A1495CB7/'.
+[2020.05.01-02.28.06:747][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.01-02.28.06:747][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.01-02.28.06:748][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.01-02.28.07:298][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.01-02.28.07:349][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/slipk/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.05.01-02.28.07:349][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/slipk/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.05.01-02.28.07:349][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.01-02.28.07:349][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.01-02.28.07:350][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.01-02.28.07:350][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.01-02.28.07:366][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.01-02.28.07:366][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.01-02.28.07:366][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.01-02.28.07:379][  0]LogDerivedDataCache: Using Local data cache path C:/Users/slipk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.01-02.28.07:379][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.01-02.28.07:379][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.01-02.28.07:401][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.01-02.28.07:402][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.01-02.28.07:410][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.01-02.28.07:518][  0]LogAssetRegistry: FAssetRegistry took 0.0340 seconds to start up
+[2020.05.01-02.28.07:817][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.01-02.28.07:957][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.05.01-02.28.07:960][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.05.01-02.28.07:960][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.01-02.28.07:960][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.01-02.28.07:960][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.05.01-02.28.07:974][  0]LogNetVersion: VehicleTutorial 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 223287090)
+[2020.05.01-02.28.08:405][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.034140 seconds
+[2020.05.01-02.28.08:411][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.05.01-02.28.08:411][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.05.01-02.28.08:411][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.01-02.28.09:422][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.01-02.28.09:435][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.01-02.28.10:314][  0]SourceControl: ソースコントロールは無効です
+[2020.05.01-02.28.10:314][  0]SourceControl: ソースコントロールは無効です
+[2020.05.01-02.28.10:315][  0]SourceControl: ソースコントロールは無効です
+[2020.05.01-02.28.10:316][  0]SourceControl: ソースコントロールは無効です
+[2020.05.01-02.28.10:482][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.01-02.28.10:861][  0]LogOcInput: OculusInput pre-init called
+[2020.05.01-02.28.11:001][  0]LogEngine: Initializing Engine...
+[2020.05.01-02.28.11:001][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.01-02.28.11:003][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.01-02.28.11:003][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.01-02.28.11:003][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.01-02.28.11:003][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.01-02.28.11:252][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.01-02.28.11:266][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.01-02.28.11:454][  0]LogInit: XAudio2 using 'Speakers (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.05.01-02.28.11:483][  0]LogInit: FAudioDevice initialized.
+[2020.05.01-02.28.11:483][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.01-02.28.11:649][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/slipk/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.05.01-02.28.11:657][  0]LogInit: Texture streaming: Enabled
+[2020.05.01-02.28.11:688][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.01-02.28.11:713][  0]LogInit: Transaction tracking system initialized
+[2020.05.01-02.28.11:750][  0]BlueprintLog: New page: エディタの読み込み
+[2020.05.01-02.28.11:865][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2020.05.01-02.28.12:474][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.01-02.28.12:474][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.01-02.28.12:474][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.05.01-02.28.12:474][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.01-02.28.12:474][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.01-02.28.12:474][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.01-02.28.12:474][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.01-02.28.12:639][  0]LogFileCache: Scanning file cache for directory 'D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/' took 0.02s
+[2020.05.01-02.28.12:639][  0]SourceControl: ソースコントロールは無効です
+[2020.05.01-02.28.12:639][  0]Cmd: MAP LOAD FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Maps/VehicleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.01-02.28.12:640][  0]LightingResults: New page: ライティングのビルド
+[2020.05.01-02.28.12:643][  0]MapCheck: New page: マップをチェック
+[2020.05.01-02.28.12:643][  0]LightingResults: New page: <何も選択されていません>
+[2020.05.01-02.28.13:185][  0]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2020.05.01-02.28.13:199][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.01-02.28.13:223][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.01-02.28.13:224][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.115ミリ秒かかりました。
+[2020.05.01-02.28.13:224][  0]LogFileHelpers: Loading map 'VehicleExampleMap' took 0.584
+[2020.05.01-02.28.13:331][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.28.13:345][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.28.13:357][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.28.13:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.28.13:372][  0]LogCollectionManager: Loaded 0 collections in 0.002179 seconds
+[2020.05.01-02.28.13:401][  0]LogFileCache: Scanning file cache for directory 'D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Collections/' took 0.01s
+[2020.05.01-02.28.13:401][  0]LogFileCache: Scanning file cache for directory 'D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/Developers/akito/Collections/' took 0.00s
+[2020.05.01-02.28.13:401][  0]LogFileCache: Scanning file cache for directory 'D:/gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/Collections/' took 0.01s
+[2020.05.01-02.28.13:401][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.01-02.28.13:412][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2653 classes and 623 folders.
+[2020.05.01-02.28.13:419][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.01-02.28.13:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:425][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:436][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:438][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:439][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.01-02.28.13:529][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.01-02.28.14:727][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.05.01-02.28.14:806][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.05.01-02.28.14:822][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VehicleTutorial
+[2020.05.01-02.28.14:822][  0]LogTemp: CWD: D:\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.05.01-02.28.14:822][  0]LogTemp: Initial Dir: D:\Epic Games\UE_4.21
+[2020.05.01-02.28.14:822][  0]LogTemp: Env CWD: D:\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.05.01-02.28.14:822][  0]LogTemp: BranchPath = AKI/D/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = AKI/D/Epic Games/UE_4.21/Engine/Binaries
+[2020.05.01-02.28.14:822][  0]LogSlate: Took 0.000370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.01-02.28.14:825][  0]LogSlate: Took 0.000631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2020.05.01-02.28.14:826][  0]LogSlate: Took 0.000619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2020.05.01-02.28.14:826][  0]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.01-02.28.14:831][  0]LogSlate: Took 0.000578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.01-02.28.14:921][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\slipk\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.05.01-02.28.14:921][  0]LogRenderer: Reallocating scene render targets to support 1148x576 Format 10 NumSamples 1 (Frame:1).
+[2020.05.01-02.28.14:963][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.01-02.28.15:038][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.05.01-02.28.15:038][  0]LogLoad: (Engine Initialization) Total time: 12.25 seconds
+[2020.05.01-02.28.15:039][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.01-02.28.15:054][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2020.05.01-02.28.15:054][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2020.05.01-02.28.15:054][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2020.05.01-02.28.15:054][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2020.05.01-02.28.15:054][  0]LogRawInputWindows: VenderID:45e ProductID:28e
+[2020.05.01-02.28.15:054][  0]LogRawInputWindows: Device was registered succesfully and is connected (Usage:5 UsagePage:1)
+[2020.05.01-02.28.15:131][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.01-02.28.15:221][  2]LogAssetRegistry: Asset discovery search completed in 7.7248 seconds
+[2020.05.01-02.28.15:224][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.05.01-02.28.15:224][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000099 seconds (updated 0 objects)
+[2020.05.01-02.28.16:190][ 95]LogSlate: Took 0.000513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2020.05.01-02.28.16:190][ 95]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.01-02.28.29:010][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.01-02.28.34:456][ 24]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Bullet.BP_Bullet
+[2020.05.01-02.28.34:878][ 24]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2020.05.01-02.28.35:619][ 24]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VehicleBP/Sedan/Sedan.Sedan
+[2020.05.01-02.28.35:908][ 24]LogSlate: Took 0.000484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2020.05.01-02.28.35:908][ 24]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.01-02.28.36:071][ 25]LogSlate: Took 0.000405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.01-02.28.40:335][405]LogSlate: Window 'Sedan' being destroyed
+[2020.05.01-02.29.00:972][849]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2020.05.01-02.29.11:359][ 40]LogRenderer: Reallocating scene render targets to support 1148x712 Format 10 NumSamples 1 (Frame:1).
+[2020.05.01-02.29.32:863][493]BlueprintLog: New page: Sedan をコンパイル
+[2020.05.01-02.29.37:061][932]BlueprintLog: New page: Sedan をコンパイル
+[2020.05.01-02.29.38:041][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Sedan/Sedan.uasset" SILENT=true
+[2020.05.01-02.29.38:112][  0]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/SedanAD1A54314EA38DB210DF869592AB1DE2.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Sedan/Sedan.uasset'
+[2020.05.01-02.29.51:735][601]LogTemp: Repeating last play command: シミュレート
+[2020.05.01-02.29.51:760][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.29.51:761][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.01-02.29.51:761][601]PIE: New page: SIEセッション: VehicleExampleMap (2020/05/01 20:29:51)
+[2020.05.01-02.29.51:773][601]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2020.05.01-02.29.51:796][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023247s)
+[2020.05.01-02.29.51:797][601]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2020.05.01-02.29.51:797][601]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2020.05.01-02.29.51:797][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.024630s)
+[2020.05.01-02.29.51:994][601]LogInit: XAudio2 using 'Speakers (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.05.01-02.29.52:014][601]LogInit: FAudioDevice initialized.
+[2020.05.01-02.29.52:060][601]LogLoad: Game class is 'VehicleGameMode_C'
+[2020.05.01-02.29.52:065][601]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2020.05.01-11.29.52
+[2020.05.01-02.29.52:065][601]LogWorld: Bringing up level for play took: 0.002420
+[2020.05.01-02.29.52:081][601]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.05.01-02.29.52:082][601]PIE: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.405のプレイ イン エディタの開始時間
+[2020.05.01-02.29.52:089][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.30.53:224][849]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.30.53:225][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.30.53:268][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.01-02.30.53:269][849]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.30.53:297][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.30.53:341][851]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.05.01-02.30.57:993][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.01-02.31.01:787][854]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2020.05.01-02.31.18:000][712]LogSlate: Took 0.022715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2020.05.01-02.31.18:002][712]LogSlate: Took 0.001758 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.01-02.31.36:702][894]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.01-02.31.40:368][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.01-02.31.40:451][320]BlueprintLog: New page: Sedan をコンパイル
+[2020.05.01-02.33.21:212][308]BlueprintLog: New page: FirstPersonProjectile をコンパイル
+[2020.05.01-02.33.27:353][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.33.27:353][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.01-02.33.27:353][ 17]PIE: New page: PIEセッション: VehicleExampleMap (2020/05/01 20:33:27)
+[2020.05.01-02.33.27:353][ 17]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2020.05.01-02.33.27:369][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016063s)
+[2020.05.01-02.33.27:370][ 17]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2020.05.01-02.33.27:370][ 17]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2020.05.01-02.33.27:370][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.017293s)
+[2020.05.01-02.33.27:574][ 17]LogInit: XAudio2 using 'Speakers (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.05.01-02.33.27:594][ 17]LogInit: FAudioDevice initialized.
+[2020.05.01-02.33.27:627][ 17]LogLoad: Game class is 'VehicleGameMode_C'
+[2020.05.01-02.33.27:632][ 17]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2020.05.01-11.33.27
+[2020.05.01-02.33.27:633][ 17]LogWorld: Bringing up level for play took: 0.002560
+[2020.05.01-02.33.27:645][ 17]PIE: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 1.158のプレイ イン エディタの開始時間
+[2020.05.01-02.33.27:645][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.33.41:702][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.33.41:702][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.33.41:739][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.01-02.33.41:739][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.33.41:769][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.33.41:811][703]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.05.01-02.33.42:661][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.01-02.34.16:411][821]BlueprintLog: New page: FirstPersonProjectile をコンパイル
+[2020.05.01-02.34.17:169][888]LogTemp: Repeating last play command: 選択ビューポート
+[2020.05.01-02.34.17:184][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.34.17:184][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.01-02.34.17:184][888]PIE: New page: PIEセッション: VehicleExampleMap (2020/05/01 20:34:17)
+[2020.05.01-02.34.17:184][888]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2020.05.01-02.34.17:199][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014553s)
+[2020.05.01-02.34.17:200][888]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2020.05.01-02.34.17:200][888]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2020.05.01-02.34.17:200][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.015672s)
+[2020.05.01-02.34.17:404][888]LogInit: XAudio2 using 'Speakers (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.05.01-02.34.17:424][888]LogInit: FAudioDevice initialized.
+[2020.05.01-02.34.17:434][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.34.17:463][888]LogLoad: Game class is 'VehicleGameMode_C'
+[2020.05.01-02.34.17:467][888]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2020.05.01-11.34.17
+[2020.05.01-02.34.17:467][888]LogWorld: Bringing up level for play took: 0.002233
+[2020.05.01-02.34.17:481][888]PIE: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.995のプレイ イン エディタの開始時間
+[2020.05.01-02.34.17:482][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.34.17:501][888]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2020.05.01-02.34.27:811][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.34.27:811][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.34.27:823][119]LogSlate: Window 'VehicleTutorial ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2020.05.01-02.34.27:859][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.01-02.34.27:859][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.34.27:915][122]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.05.01-02.34.39:291][472]BlueprintLog: New page: FirstPersonProjectile をコンパイル
+[2020.05.01-02.34.43:489][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Sedan/Sedan.uasset" SILENT=true
+[2020.05.01-02.34.43:571][942]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Sedan5B98C57045CB2AFE7714248A431CD55D.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Sedan/Sedan.uasset'
+[2020.05.01-02.34.44:704][ 76]LogTemp: Repeating last play command: 選択ビューポート
+[2020.05.01-02.34.44:718][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.34.44:718][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.01-02.34.44:718][ 76]PIE: New page: PIEセッション: VehicleExampleMap (2020/05/01 20:34:44)
+[2020.05.01-02.34.44:718][ 76]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2020.05.01-02.34.44:732][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013970s)
+[2020.05.01-02.34.44:732][ 76]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2020.05.01-02.34.44:733][ 76]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2020.05.01-02.34.44:733][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.014714s)
+[2020.05.01-02.34.44:929][ 76]LogInit: XAudio2 using 'Speakers (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.05.01-02.34.44:948][ 76]LogInit: FAudioDevice initialized.
+[2020.05.01-02.34.44:958][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.34.44:988][ 76]LogLoad: Game class is 'VehicleGameMode_C'
+[2020.05.01-02.34.44:993][ 76]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2020.05.01-11.34.44
+[2020.05.01-02.34.44:993][ 76]LogWorld: Bringing up level for play took: 0.002689
+[2020.05.01-02.34.45:007][ 76]PIE: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.521のプレイ イン エディタの開始時間
+[2020.05.01-02.34.45:007][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.35.04:815][443]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.35.04:815][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.35.04:828][443]LogSlate: Window 'VehicleTutorial ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2020.05.01-02.35.04:866][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.01-02.35.04:866][443]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.35.04:918][446]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.05.01-02.36.26:849][ 89]BlueprintLog: New page: FirstPersonProjectile をコンパイル
+[2020.05.01-02.36.28:027][206]LogTemp: Repeating last play command: 選択ビューポート
+[2020.05.01-02.36.28:041][206]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.36.28:041][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.01-02.36.28:041][206]PIE: New page: PIEセッション: VehicleExampleMap (2020/05/01 20:36:28)
+[2020.05.01-02.36.28:041][206]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2020.05.01-02.36.28:054][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013570s)
+[2020.05.01-02.36.28:055][206]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2020.05.01-02.36.28:056][206]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2020.05.01-02.36.28:056][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.014867s)
+[2020.05.01-02.36.28:252][206]LogInit: XAudio2 using 'Speakers (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.05.01-02.36.28:272][206]LogInit: FAudioDevice initialized.
+[2020.05.01-02.36.28:281][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.36.28:315][206]LogLoad: Game class is 'VehicleGameMode_C'
+[2020.05.01-02.36.28:319][206]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2020.05.01-11.36.28
+[2020.05.01-02.36.28:320][206]LogWorld: Bringing up level for play took: 0.002828
+[2020.05.01-02.36.28:334][206]PIE: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.153のプレイ イン エディタの開始時間
+[2020.05.01-02.36.28:334][206]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.36.29:291][313]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.30:624][473]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.30:825][497]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.31:841][619]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.32:025][641]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.32:592][709]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.33:434][810]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.33:618][832]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.33:902][866]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.34:080][887]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.34:514][939]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.RoughTerrain_StaticMesh_4 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.36.34:714][963]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.RoughTerrain_StaticMesh_4 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.36.35:616][ 71]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.RoughTerrain_StaticMesh_4 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.36.35:934][109]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.RoughTerrain_StaticMesh_4 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.36.36:201][141]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.RoughTerrain_StaticMesh_4 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.36.36:556][183]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.RoughTerrain_StaticMesh_4 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.36.37:347][278]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.38:598][428]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.38:790][451]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.39:290][511]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.42:276][869]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.42:476][893]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.42:651][914]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.43:827][ 50]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.44:053][ 74]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.44:437][120]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.46:162][326]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.47:178][448]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.47:822][525]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.48:006][547]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.48:189][569]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.48:690][629]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.50:743][875]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.50:910][895]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.51:085][916]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.36.54:721][352]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Ramp5 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.36.54:907][374]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Ramp5 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.36.58:057][752]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Ramp2 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.36.58:275][778]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Ramp2 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.36.59:768][957]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.00:127][  0]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.03:722][428]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.03:948][455]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.04:890][568]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.05:065][589]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.05:257][612]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.05:492][640]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.37.05:492][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.37.05:506][640]LogSlate: Window 'VehicleTutorial ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2020.05.01-02.37.05:545][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.01-02.37.05:546][640]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.37.05:620][641]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.05.01-02.37.25:285][934]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/VehicleExampleMap2E703C3C4E8B0F2B2BC4C1860C9ADE50.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2020.05.01-02.37.26:020][934]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/VehicleExampleMap_BuiltDataC8CFDC044CE9375E683D2D88F41324C5.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2020.05.01-02.37.26:475][985]LogTemp: Repeating last play command: 選択ビューポート
+[2020.05.01-02.37.26:488][985]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.37.26:489][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.01-02.37.26:489][985]PIE: New page: PIEセッション: VehicleExampleMap (2020/05/01 20:37:26)
+[2020.05.01-02.37.26:489][985]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2020.05.01-02.37.26:508][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019161s)
+[2020.05.01-02.37.26:509][985]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2020.05.01-02.37.26:509][985]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2020.05.01-02.37.26:509][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.020023s)
+[2020.05.01-02.37.26:731][985]LogInit: XAudio2 using 'Speakers (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.05.01-02.37.26:751][985]LogInit: FAudioDevice initialized.
+[2020.05.01-02.37.26:783][985]LogLoad: Game class is 'VehicleGameMode_C'
+[2020.05.01-02.37.26:788][985]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2020.05.01-11.37.26
+[2020.05.01-02.37.26:789][985]LogWorld: Bringing up level for play took: 0.002848
+[2020.05.01-02.37.26:802][985]PIE: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.315のプレイ イン エディタの開始時間
+[2020.05.01-02.37.26:802][985]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.37.27:812][104]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.27:953][121]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.28:553][193]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.28:879][232]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.29:078][256]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_17 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.29:270][279]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_17 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.29:503][307]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_17 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.30:419][417]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.30:812][464]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.31:037][491]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.31:445][540]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.32:923][717]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.33:373][771]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.33:390][773]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.34:398][894]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.35:382][ 12]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.35:590][ 37]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.36:515][148]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.36:915][196]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.37:057][213]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.37:666][286]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.38:707][411]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.38:974][443]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.39:174][467]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.39:824][545]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Column_17 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.37.41:416][736]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Wall16_37 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.37.41:550][752]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Column_17 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.37.41:775][779]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Column_17 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.37.41:942][799]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Column_17 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.37.44:541][111]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.47:109][419]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.RoughTerrain_StaticMesh_4 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.37.47:284][440]PIE: Warning: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.RoughTerrain_StaticMesh_4 のモビリティ：AddImpulseAtLocation をしたい場合は、StaticMeshComponent0 は「ムーバブル」にする必要があります。
+[2020.05.01-02.37.48:468][582]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.49:209][671]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.49:392][693]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.50:861][869]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.51:035][890]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.51:828][985]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.52:070][ 14]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.52:269][ 38]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.53:161][145]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.53:269][158]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.53:394][173]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.55:052][370]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.55:237][392]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.55:821][462]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.56:021][486]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.57:120][618]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.57:212][629]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.57:262][635]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.58:287][758]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.58:545][789]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.59:304][880]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.59:504][904]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.37.59:687][926]PIE: Warning: AddImpulseAtLocation させるには None.ModelComponent_16 の 'Simulate Physics' を有効にしなくてはいけません。　
+[2020.05.01-02.38.02:113][217]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.38.02:113][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.38.02:147][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.01-02.38.02:148][217]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.38.02:177][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.38.02:233][219]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.05.01-02.38.07:357][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.01-02.39.12:269][608]LogEditorTransaction: Undo ノードを移動
+[2020.05.01-02.39.14:499][872]LogEditorTransaction: Undo ノードを移動
+[2020.05.01-02.39.55:303][705]BlueprintLog: New page: FirstPersonProjectile をコンパイル
+[2020.05.01-02.39.57:586][954]LogTemp: Repeating last play command: 選択ビューポート
+[2020.05.01-02.39.57:599][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.39.57:599][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.01-02.39.57:600][954]PIE: New page: PIEセッション: VehicleExampleMap (2020/05/01 20:39:57)
+[2020.05.01-02.39.57:600][954]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2020.05.01-02.39.57:615][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014970s)
+[2020.05.01-02.39.57:615][954]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2020.05.01-02.39.57:616][954]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2020.05.01-02.39.57:616][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.015874s)
+[2020.05.01-02.39.57:815][954]LogInit: XAudio2 using 'Speakers (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.05.01-02.39.57:835][954]LogInit: FAudioDevice initialized.
+[2020.05.01-02.39.57:868][954]LogLoad: Game class is 'VehicleGameMode_C'
+[2020.05.01-02.39.57:872][954]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2020.05.01-11.39.57
+[2020.05.01-02.39.57:873][954]LogWorld: Bringing up level for play took: 0.002506
+[2020.05.01-02.39.57:886][954]PIE: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.601のプレイ イン エディタの開始時間
+[2020.05.01-02.39.57:886][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.40.02:641][520]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.40.02:641][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.40.02:681][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.01-02.40.02:682][520]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.40.02:710][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.40.02:755][522]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.05.01-02.40.06:797][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.01-02.42.31:145][227]BlueprintLog: New page: FirstPersonProjectile をコンパイル
+[2020.05.01-02.42.32:304][343]LogTemp: Repeating last play command: 選択ビューポート
+[2020.05.01-02.42.32:318][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.42.32:318][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.01-02.42.32:318][343]PIE: New page: PIEセッション: VehicleExampleMap (2020/05/01 20:42:32)
+[2020.05.01-02.42.32:319][343]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2020.05.01-02.42.32:333][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014532s)
+[2020.05.01-02.42.32:334][343]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2020.05.01-02.42.32:334][343]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2020.05.01-02.42.32:334][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.015428s)
+[2020.05.01-02.42.32:551][343]LogInit: XAudio2 using 'Speakers (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.05.01-02.42.32:574][343]LogInit: FAudioDevice initialized.
+[2020.05.01-02.42.32:586][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.42.32:615][343]LogLoad: Game class is 'VehicleGameMode_C'
+[2020.05.01-02.42.32:620][343]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2020.05.01-11.42.32
+[2020.05.01-02.42.32:620][343]LogWorld: Bringing up level for play took: 0.002277
+[2020.05.01-02.42.32:634][343]PIE: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.147のプレイ イン エディタの開始時間
+[2020.05.01-02.42.32:634][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.42.48:205][203]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.42.48:205][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.42.48:218][203]LogSlate: Window 'VehicleTutorial ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2020.05.01-02.42.48:256][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.01-02.42.48:257][203]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.42.48:310][205]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.05.01-02.43.05:571][231]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/VehicleExampleMapB298BDE44DD01634A179BE80F7E4982F.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2020.05.01-02.43.06:057][231]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/VehicleExampleMap_BuiltData5A840587446561F1C3076E9E73F58967.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2020.05.01-02.43.07:325][376]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/FirstPersonProjectileCF5A3AAA4185E75EE6F802A38374B9C1.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2020.05.01-02.45.39:148][557]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.01-02.47.40:806][ 80]BlueprintLog: New page: Sedan をコンパイル
+[2020.05.01-02.48.20:854][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Sedan/Sedan.uasset" SILENT=true
+[2020.05.01-02.48.20:930][731]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Sedan823967A340E836C807396A9CF2AA958D.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Sedan/Sedan.uasset'
+[2020.05.01-02.49.53:095][698]BlueprintLog: New page: Sedan をコンパイル
+[2020.05.01-02.49.54:701][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Sedan/Sedan.uasset" SILENT=true
+[2020.05.01-02.49.54:774][843]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Sedan02DA49794D957861CAE0A0AE3E1FA147.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Sedan/Sedan.uasset'
+[2020.05.01-02.49.56:568][ 56]LogTemp: Repeating last play command: 選択ビューポート
+[2020.05.01-02.49.56:595][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.49.56:595][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.01-02.49.56:595][ 56]PIE: New page: PIEセッション: VehicleExampleMap (2020/05/01 20:49:56)
+[2020.05.01-02.49.56:595][ 56]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2020.05.01-02.49.56:612][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016535s)
+[2020.05.01-02.49.56:612][ 56]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2020.05.01-02.49.56:613][ 56]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2020.05.01-02.49.56:613][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.017498s)
+[2020.05.01-02.49.56:818][ 56]LogInit: XAudio2 using 'Speakers (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.05.01-02.49.56:839][ 56]LogInit: FAudioDevice initialized.
+[2020.05.01-02.49.56:848][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.49.56:881][ 56]LogLoad: Game class is 'VehicleGameMode_C'
+[2020.05.01-02.49.56:885][ 56]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2020.05.01-11.49.56
+[2020.05.01-02.49.56:886][ 56]LogWorld: Bringing up level for play took: 0.002479
+[2020.05.01-02.49.56:900][ 56]PIE: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.413のプレイ イン エディタの開始時間
+[2020.05.01-02.49.56:900][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.50.02:505][716]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.50.02:505][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.50.02:518][716]LogSlate: Window 'VehicleTutorial ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2020.05.01-02.50.02:566][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.01-02.50.02:567][716]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.50.02:663][717]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.05.01-02.53.44:473][548]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/VehicleExampleMap_Auto1441F41A3487257A5AF48198631BD6778.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto1.umap'
+[2020.05.01-02.53.44:477][548]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.226
+[2020.05.01-02.53.44:477][548]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.226
+[2020.05.01-02.53.44:479][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleBP/Sedan/Sedan] ([1] browsable assets)...
+[2020.05.01-02.53.44:497][548]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleBP/Sedan/Sedan.Sedan]
+[2020.05.01-02.53.44:497][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/Sedan/Sedan]
+[2020.05.01-02.53.44:576][548]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Sedan_Auto1D62DB2494F670F03F49BBE9D348897A4.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Autosaves/Game/VehicleBP/Sedan/Sedan_Auto1.uasset'
+[2020.05.01-02.53.44:598][548]LogFileHelpers: Auto-saving content packages took 0.121
+[2020.05.01-02.55.12:584][744]BlueprintLog: New page: Sedan をコンパイル
+[2020.05.01-02.57.38:270][920]BlueprintLog: New page: Sedan をコンパイル
+[2020.05.01-02.57.39:558][ 41]LogTemp: Repeating last play command: 選択ビューポート
+[2020.05.01-02.57.39:576][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.57.39:576][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.01-02.57.39:576][ 41]PIE: New page: PIEセッション: VehicleExampleMap (2020/05/01 20:57:39)
+[2020.05.01-02.57.39:576][ 41]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2020.05.01-02.57.39:592][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016372s)
+[2020.05.01-02.57.39:593][ 41]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2020.05.01-02.57.39:593][ 41]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2020.05.01-02.57.39:593][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.017337s)
+[2020.05.01-02.57.39:796][ 41]LogInit: XAudio2 using 'Speakers (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.05.01-02.57.39:817][ 41]LogInit: FAudioDevice initialized.
+[2020.05.01-02.57.39:827][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.57.39:861][ 41]LogLoad: Game class is 'VehicleGameMode_C'
+[2020.05.01-02.57.39:866][ 41]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2020.05.01-11.57.39
+[2020.05.01-02.57.39:867][ 41]LogWorld: Bringing up level for play took: 0.002622
+[2020.05.01-02.57.39:881][ 41]PIE: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.606のプレイ イン エディタの開始時間
+[2020.05.01-02.57.39:881][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.57.46:270][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.57.46:270][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.01-02.57.46:283][788]LogSlate: Window 'VehicleTutorial ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2020.05.01-02.57.46:319][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.01-02.57.46:320][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2020.05.01-02.57.46:387][789]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.05.01-02.58.02:009][629]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/VehicleExampleMap4190CA6C4D88DEC0C228CF855529402E.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2020.05.01-02.58.02:493][629]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/VehicleExampleMap_BuiltData6517DEDF4D3120270C02809AF7E97254.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2020.05.01-03.04.58:482][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Sedan/Sedan.uasset" SILENT=true
+[2020.05.01-03.04.58:570][768]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/SedanDC8C27ED45118AFE2AB870A07C056023.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Sedan/Sedan.uasset'
+[2020.05.01-03.07.30:828][705]LogEditorTransaction: Undo ノードを移動
+[2020.05.01-03.08.10:810][404]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/VehicleExampleMap_Auto2E3BEAEBA4AA47B2E06C6DA83C89D3751.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto2.umap'
+[2020.05.01-03.08.10:815][404]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.233
+[2020.05.01-03.08.10:815][404]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.233
+[2020.05.01-03.08.10:817][404]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleBP/Sedan/Sedan] ([1] browsable assets)...
+[2020.05.01-03.08.10:830][404]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleBP/Sedan/Sedan.Sedan]
+[2020.05.01-03.08.10:830][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/Sedan/Sedan]
+[2020.05.01-03.08.10:912][404]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Sedan_Auto2E97319324E5FB2F199D2C0BB8D135958.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Autosaves/Game/VehicleBP/Sedan/Sedan_Auto2.uasset'
+[2020.05.01-03.08.10:932][404]LogFileHelpers: Auto-saving content packages took 0.116
+[2020.05.01-03.12.00:230][339]BlueprintLog: New page: FirstPersonProjectile をコンパイル
+[2020.05.01-03.12.01:844][502]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/FirstPersonProjectile0C797FF943EEAF55327B7C81EC0A04C1.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2020.05.01-03.12.06:347][ 39]BlueprintLog: New page: Sedan をコンパイル
+[2020.05.01-03.12.07:062][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Sedan/Sedan.uasset" SILENT=true
+[2020.05.01-03.12.07:142][ 92]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/SedanF25E63584EA1971FE08D2A8CFAACFE3B.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Sedan/Sedan.uasset'
+[2020.05.01-03.12.10:706][488]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/VehicleExampleMapCCF9E96543BF7C389EB7A994B15105A0.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2020.05.01-03.12.11:195][488]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/VehicleExampleMap_BuiltDataADFAF2EA415185D1A5E79BAD4B04C01F.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2020.05.01-03.15.12:061][142]BlueprintLog: New page: Sedan をコンパイル
+[2020.05.01-03.15.31:319][409]BlueprintLog: New page: Sedan をコンパイル
+[2020.05.01-03.16.10:526][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Sedan/Sedan.uasset" SILENT=true
+[2020.05.01-03.16.10:610][ 32]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/Sedan7A11500040ABE4D3F9FC8EBB84D8ACFC.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Sedan/Sedan.uasset'
+[2020.05.01-03.16.18:400][935]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/VehicleExampleMapB9E68704401C5D84457A3D882D1E8435.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2020.05.01-03.16.18:884][935]LogSavePackage: Moving '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Saved/VehicleExampleMap_BuiltData6F2875BF474C366AD669DAB0B18D7A38.tmp' to '../../../../../gitroot/HTUE4_1/aki0018/FirstProject/VehicleTutorial/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
